@@ -59,6 +59,56 @@ Now visit ``http://127.0.0.1:8000/api/graphql`` in your browser. You should see 
 
 The GraphQL code below is requesting all the books from the database
 
+###### For single query following the query, which requests a single book by its id:
+
+          query {
+            book(bookId: 2) {
+                   id
+                   title
+                   author
+                 }
+               }
 
 
-   
+####### for create new Book. GraphQL snippet defines a mutation that adds a new book to the database: 
+
+          mutation createMutation {
+            createBook(bookData: {title: "The Chronicles", author: "Jhon Deo", yearPublished: "1980", review: 42}) {
+              book {
+                title,
+                author,
+                yearPublished,
+                review
+              }
+            }
+          }
+
+####### The next GraphQL mutation updates the book with id=5:
+
+          mutation updateMutation {
+            updateBook(bookData: {id: 5, title: "The Lord of the Rings", author: "J.J.R", yearPublished: "1948", review: 20}) {
+              book {
+                title,
+                author,
+                yearPublished,
+                review
+              }
+            }
+          }
+          
+####### The final mutation example deletes the book with id=4 from the database: 
+
+          mutation deleteMutation{
+            deleteBook(id: 6) {
+              book {
+                id
+              } 
+            }
+          }
+
+               
+               
+
+
+
+      
