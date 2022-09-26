@@ -70,7 +70,7 @@ The GraphQL code below is requesting all the books from the database
                }
 
 
-####### for create new Book. GraphQL snippet defines a mutation that adds a new book to the database: 
+##### for create new Book. GraphQL snippet defines a mutation that adds a new book to the database: 
 
           mutation createMutation {
             createBook(bookData: {title: "The Chronicles", author: "Jhon Deo", yearPublished: "1980", review: 42}) {
@@ -83,7 +83,7 @@ The GraphQL code below is requesting all the books from the database
             }
           }
 
-####### The next GraphQL mutation updates the book with id=5:
+##### The next GraphQL mutation updates the book with id=5:
 
           mutation updateMutation {
             updateBook(bookData: {id: 5, title: "The Lord of the Rings", author: "J.J.R", yearPublished: "1948", review: 20}) {
@@ -96,7 +96,7 @@ The GraphQL code below is requesting all the books from the database
             }
           }
           
-####### The final mutation example deletes the book with id=4 from the database: 
+##### The final mutation example deletes the book with id=4 from the database: 
 
           mutation deleteMutation{
             deleteBook(id: 6) {
