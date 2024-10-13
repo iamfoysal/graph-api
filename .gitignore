@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+here-pk-auto-update.json
 # Distribution / packaging
 .Python
 build/
