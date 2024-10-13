@@ -1,0 +1,83 @@
+[
+    {
+      "model": "bangladesh.Division",
+      "pk": 1,
+      "fields": {
+        "name": "Barishal",
+        "name_bn": "বরিশাল",
+        "lat": "22.701002",
+        "long": "90.353451"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 2,
+      "fields": {
+        "name": "Chattogram",
+        "name_bn": "চট্টগ্রাম",
+        "lat": "22.356851",
+        "long": "91.783182"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 3,
+      "fields": {
+        "name": "Dhaka",
+        "name_bn": "ঢাকা",
+        "lat": "23.810332",
+        "long": "90.412518"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 4,
+      "fields": {
+        "name": "Khulna",
+        "name_bn": "খুলনা",
+        "lat": "22.845641",
+        "long": "89.540328"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 5,
+      "fields": {
+        "name": "Rajshahi",
+        "name_bn": "রাজশাহী",
+        "lat": "24.363589",
+        "long": "88.624135"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 6,
+      "fields": {
+        "name": "Rangpur",
+        "name_bn": "রংপুর",
+        "lat": "25.743892",
+        "long": "89.275227"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 7,
+      "fields": {
+        "name": "Sylhet",
+        "name_bn": "সিলেট",
+        "lat": "24.894929",
+        "long": "91.868706"
+      }
+    },
+    {
+      "model": "bangladesh.Division",
+      "pk": 8,
+      "fields": {
+        "name": "Mymensingh",
+        "name_bn": "ময়মনসিংহ",
+        "lat": "24.747149",
+        "long": "90.420273"
+      }
+    }
+  ]
+  

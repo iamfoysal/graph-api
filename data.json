@@ -52,5 +52,118 @@
             "year_published": 2008,
             "review": 4
         }
+    },
+    {
+        "model": "api.book",
+        "pk": 6,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 7,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 8,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 9,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 10,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 11,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 12,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 13,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 14,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 15,
+        "fields": {
+            
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "year_published": 2002,
+            "review": 4
+        }
     }
+
 ]

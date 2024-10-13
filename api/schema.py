@@ -1,17 +1,30 @@
 import graphene
 
-from graphene_django import DjangoObjectType, DjangoListField 
-from .models import Book 
+from graphene_django import DjangoObjectType, DjangoListField
+from .models import Book
+
+from graphene_django.filter import DjangoFilterConnectionField
+from django_filters import *
 
 
-class BookType(DjangoObjectType): 
+class BookFilter(FilterSet):
+    class Meta:
+        model = Book
+        fields = '__all__'
+
+
+class BookType(DjangoObjectType):
+    id = graphene.ID(source='pk', required=True)
+
     class Meta:
         model = Book
         fields = "__all__"
+        interfaces = (graphene.relay.Node,)
+        filterset_class = BookFilter
 
 
-class Query(graphene.ObjectType):
-    all_books = graphene.List(BookType)
+class BookQuery(graphene.ObjectType):
+    all_books = DjangoFilterConnectionField(BookType)
     book = graphene.Field(BookType, book_id=graphene.Int())
 
     def resolve_all_books(self, info, **kwargs):
@@ -20,12 +33,13 @@ class Query(graphene.ObjectType):
     def resolve_book(self, info, book_id):
         return Book.objects.get(pk=book_id)
 
+
 class BookInput(graphene.InputObjectType):
     id = graphene.ID()
     title = graphene.String()
     author = graphene.String()
     year_published = graphene.String()
-    review = graphene.Int() 
+    review = graphene.Int()
 
 
 class CreateBook(graphene.Mutation):
@@ -36,7 +50,7 @@ class CreateBook(graphene.Mutation):
 
     @staticmethod
     def mutate(root, info, book_data=None):
-        book_instance = Book( 
+        book_instance = Book(
             title=book_data.title,
             author=book_data.author,
             year_published=book_data.year_published,
@@ -68,7 +82,6 @@ class UpdateBook(graphene.Mutation):
         return UpdateBook(book=None)
 
 
-
 class DeleteBook(graphene.Mutation):
     class Arguments:
         id = graphene.ID()
@@ -83,10 +96,9 @@ class DeleteBook(graphene.Mutation):
         return None
 
 
-class Mutation(graphene.ObjectType):
+class BookMutation(graphene.ObjectType):
     create_book = CreateBook.Field()
     update_book = UpdateBook.Field()
     delete_book = DeleteBook.Field()
 
 
-schema = graphene.Schema(query=Query, mutation=Mutation)

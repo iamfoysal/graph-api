@@ -1,0 +1,714 @@
+[
+  {
+    "model": "bangladesh.District",
+    "pk": 1,
+    "fields": {
+      "division": 1,
+      "name": "Barguna",
+      "name_bn": "বরগুনা",
+      "lat": "22.0953",
+      "long": "90.1121"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 2,
+    "fields": {
+      "division": 1,
+      "name": "Barishal",
+      "name_bn": "বরিশাল",
+      "lat": "22.7010",
+      "long": "90.3535"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 3,
+    "fields": {
+      "division": 1,
+      "name": "Bhola",
+      "name_bn": "ভোলা",
+      "lat": "22.685923",
+      "long": "90.648179"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 4,
+    "fields": {
+      "division": 1,
+      "name": "Jhalokati",
+      "name_bn": "ঝালকাঠি",
+      "lat": "22.6406",
+      "long": "90.1987"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 5,
+    "fields": {
+      "division": 1,
+      "name": "Patuakhali",
+      "name_bn": "পটুয়াখালী",
+      "lat": "22.3596316",
+      "long": "90.3298712"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 6,
+    "fields": {
+      "division": 1,
+      "name": "Pirojpur",
+      "name_bn": "পিরোজপুর",
+      "lat": "22.5841",
+      "long": "89.9720"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 7,
+    "fields": {
+      "division": 2,
+      "name": "Bandarban",
+      "name_bn": "বান্দরবান",
+      "lat": "22.1953275",
+      "long": "92.2183773"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 8,
+    "fields": {
+      "division": 2,
+      "name": "Brahmanbaria",
+      "name_bn": "ব্রাহ্মণবাড়িয়া",
+      "lat": "23.9570904",
+      "long": "91.1119286"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 9,
+    "fields": {
+      "division": 2,
+      "name": "Chandpur",
+      "name_bn": "চাঁদপুর",
+      "lat": "23.2332585",
+      "long": "90.6712912"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 10,
+    "fields": {
+      "division": 2,
+      "name": "Chattogram",
+      "name_bn": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "long": "91.834073"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 11,
+    "fields": {
+      "division": 2,
+      "name": "Cumilla",
+      "name_bn": "কুমিল্লা",
+      "lat": "23.4682747",
+      "long": "91.1788135"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 12,
+    "fields": {
+      "division": 2,
+      "name": "Cox's Bazar",
+      "name_bn": "কক্স বাজার",
+      "lat": "21.4272",
+      "long": "92.0058"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 13,
+    "fields": {
+      "division": 2,
+      "name": "Feni",
+      "name_bn": "ফেনী",
+      "lat": "23.0159",
+      "long": "91.3976"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 14,
+    "fields": {
+      "division": 2,
+      "name": "Khagrachari",
+      "name_bn": "খাগড়াছড়ি",
+      "lat": "23.119285",
+      "long": "91.984663"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 15,
+    "fields": {
+      "division": 2,
+      "name": "Lakshmipur",
+      "name_bn": "লক্ষ্মীপুর",
+      "lat": "22.942477",
+      "long": "90.841184"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 16,
+    "fields": {
+      "division": 2,
+      "name": "Noakhali",
+      "name_bn": "নোয়াখালী",
+      "lat": "22.869563",
+      "long": "91.099398"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 17,
+    "fields": {
+      "division": 2,
+      "name": "Rangamati",
+      "name_bn": "রাঙ্গামাটি",
+      "lat": "22.7324",
+      "long": "92.2985"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 18,
+    "fields": {
+      "division": 3,
+      "name": "Dhaka",
+      "name_bn": "ঢাকা",
+      "lat": "23.7115253",
+      "long": "90.4111451"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 19,
+    "fields": {
+      "division": 3,
+      "name": "Faridpur",
+      "name_bn": "ফরিদপুর",
+      "lat": "23.6070822",
+      "long": "89.8429406"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 20,
+    "fields": {
+      "division": 3,
+      "name": "Gazipur",
+      "name_bn": "গাজীপুর",
+      "lat": "24.0022858",
+      "long": "90.4264283"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 21,
+    "fields": {
+      "division": 3,
+      "name": "Gopalganj",
+      "name_bn": "গোপালগঞ্জ",
+      "lat": "23.0050857",
+      "long": "89.8266059"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 22,
+    "fields": {
+      "division": 3,
+      "name": "Kishoreganj",
+      "name_bn": "কিশোরগঞ্জ",
+      "lat": "24.444937",
+      "long": "90.776575"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 23,
+    "fields": {
+      "division": 3,
+      "name": "Madaripur",
+      "name_bn": "মাদারীপুর",
+      "lat": "23.164102",
+      "long": "90.1896805"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 24,
+    "fields": {
+      "division": 3,
+      "name": "Manikganj",
+      "name_bn": "মানিকগঞ্জ",
+      "lat": "23.8644",
+      "long": "90.0047"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 25,
+    "fields": {
+      "division": 3,
+      "name": "Munshiganj",
+      "name_bn": "মুন্সিগঞ্জ",
+      "lat": "23.5422",
+      "long": "90.5305"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 26,
+    "fields": {
+      "division": 3,
+      "name": "Narayanganj",
+      "name_bn": "নারায়াণগঞ্জ",
+      "lat": "23.63366",
+      "long": "90.496482"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 27,
+    "fields": {
+      "division": 3,
+      "name": "Narsingdi",
+      "name_bn": "নরসিংদী",
+      "lat": "23.932233",
+      "long": "90.71541"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 28,
+    "fields": {
+      "division": 3,
+      "name": "Rajbari",
+      "name_bn": "রাজবাড়ি",
+      "lat": "23.7574305",
+      "long": "89.6444665"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 29,
+    "fields": {
+      "division": 3,
+      "name": "Shariatpur",
+      "name_bn": "শরীয়তপুর",
+      "lat": "23.2423",
+      "long": "90.4348"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 30,
+    "fields": {
+      "division": 3,
+      "name": "Tangail",
+      "name_bn": "টাঙ্গাইল",
+      "lat": "24.2513",
+      "long": "89.9167"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 31,
+    "fields": {
+      "division": 4,
+      "name": "Bagerhat",
+      "name_bn": "বাগেরহাট",
+      "lat": "22.651568",
+      "long": "89.785938"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 32,
+    "fields": {
+      "division": 4,
+      "name": "Chuadanga",
+      "name_bn": "চুয়াডাঙ্গা",
+      "lat": "23.6401961",
+      "long": "88.841841"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 33,
+    "fields": {
+      "division": 4,
+      "name": "Jashore",
+      "name_bn": "যশোর",
+      "lat": "23.16643",
+      "long": "89.2081126"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 34,
+    "fields": {
+      "division": 4,
+      "name": "Jhenaidah",
+      "name_bn": "ঝিনাইদহ",
+      "lat": "23.5448176",
+      "long": "89.1539213"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 35,
+    "fields": {
+      "division": 4,
+      "name": "Khulna",
+      "name_bn": "খুলনা",
+      "lat": "22.815774",
+      "long": "89.568679"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 36,
+    "fields": {
+      "division": 4,
+      "name": "Kushtia",
+      "name_bn": "কুষ্টিয়া",
+      "lat": "23.901258",
+      "long": "89.120482"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 37,
+    "fields": {
+      "division": 4,
+      "name": "Magura",
+      "name_bn": "মাগুরা",
+      "lat": "23.487337",
+      "long": "89.419956"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 38,
+    "fields": {
+      "division": 4,
+      "name": "Meherpur",
+      "name_bn": "মেহেরপুর",
+      "lat": "23.762213",
+      "long": "88.631821"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 39,
+    "fields": {
+      "division": 4,
+      "name": "Narail",
+      "name_bn": "নড়াইল",
+      "lat": "23.172534",
+      "long": "89.512672"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 40,
+    "fields": {
+      "division": 4,
+      "name": "Satkhira",
+      "name_bn": "সাতক্ষীরা",
+      "lat": "22.7185",
+      "long": "89.0705"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 41,
+    "fields": {
+      "division": 5,
+      "name": "Bogura",
+      "name_bn": "বগুড়া",
+      "lat": "24.8465228",
+      "long": "89.377755"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 42,
+    "fields": {
+      "division": 5,
+      "name": "Joypurhat",
+      "name_bn": "জয়পুরহাট",
+      "lat": "25.0968",
+      "long": "89.0227"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 43,
+    "fields": {
+      "division": 5,
+      "name": "Naogaon",
+      "name_bn": "নওগাঁ",
+      "lat": "24.7936",
+      "long": "88.9318"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 44,
+    "fields": {
+      "division": 5,
+      "name": "Natore",
+      "name_bn": "নাটোর",
+      "lat": "24.420556",
+      "long": "89.000282"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 45,
+    "fields": {
+      "division": 5,
+      "name": "Nawabganj",
+      "name_bn": "নবাবগঞ্জ",
+      "lat": "24.5965034",
+      "long": "88.2775122"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 46,
+    "fields": {
+      "division": 5,
+      "name": "Pabna",
+      "name_bn": "পাবনা",
+      "lat": "23.998524",
+      "long": "89.233645"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 47,
+    "fields": {
+      "division": 5,
+      "name": "Rajshahi",
+      "name_bn": "রাজশাহী",
+      "lat": "24.3745",
+      "long": "88.6042"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 48,
+    "fields": {
+      "division": 5,
+      "name": "Sirajgonj",
+      "name_bn": "সিরাজগঞ্জ",
+      "lat": "24.4533978",
+      "long": "89.7006815"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 49,
+    "fields": {
+      "division": 6,
+      "name": "Dinajpur",
+      "name_bn": "দিনাজপুর",
+      "lat": "25.6217061",
+      "long": "88.6354504"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 50,
+    "fields": {
+      "division": 6,
+      "name": "Gaibandha",
+      "name_bn": "গাইবান্ধা",
+      "lat": "25.328751",
+      "long": "89.528088"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 51,
+    "fields": {
+      "division": 6,
+      "name": "Kurigram",
+      "name_bn": "কুড়িগ্রাম",
+      "lat": "25.805445",
+      "long": "89.636174"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 52,
+    "fields": {
+      "division": 6,
+      "name": "Lalmonirhat",
+      "name_bn": "লালমনিরহাট",
+      "lat": "25.9923",
+      "long": "89.2847"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 53,
+    "fields": {
+      "division": 6,
+      "name": "Nilphamari",
+      "name_bn": "নীলফামারী",
+      "lat": "25.931794",
+      "long": "88.856006"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 54,
+    "fields": {
+      "division": 6,
+      "name": "Panchagarh",
+      "name_bn": "পঞ্চগড়",
+      "lat": "26.3411",
+      "long": "88.5541606"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 55,
+    "fields": {
+      "division": 6,
+      "name": "Rangpur",
+      "name_bn": "রংপুর",
+      "lat": "25.7558096",
+      "long": "89.244462"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 56,
+    "fields": {
+      "division": 6,
+      "name": "Thakurgaon",
+      "name_bn": "ঠাকুরগাঁও",
+      "lat": "26.0336945",
+      "long": "88.4616834"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 57,
+    "fields": {
+      "division": 7,
+      "name": "Habiganj",
+      "name_bn": "হবিগঞ্জ",
+      "lat": "24.374945",
+      "long": "91.41553"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 58,
+    "fields": {
+      "division": 7,
+      "name": "Maulvibazar",
+      "name_bn": "মৌলভীবাজার",
+      "lat": "24.482934",
+      "long": "91.777417"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 59,
+    "fields": {
+      "division": 7,
+      "name": "Sunamganj",
+      "name_bn": "সুনামগঞ্জ",
+      "lat": "25.0658042",
+      "long": "91.3950115"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 60,
+    "fields": {
+      "division": 7,
+      "name": "Sylhet",
+      "name_bn": "সিলেট",
+      "lat": "24.8897956",
+      "long": "91.8697894"
+    }
+  },
+
+  {
+    "model": "bangladesh.District",
+    "pk": 61,
+    "fields": {
+      "division": 8,
+      "name": "Sherpur",
+      "name_bn": "শেরপুর",
+      "lat": "25.0204933",
+      "long": "90.0152966"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 62,
+    "fields": {
+      "division": 8,
+      "name": "Jamalpur",
+      "name_bn": "জামালপুর",
+      "lat": "24.937533",
+      "long": "89.937775"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 63,
+    "fields": {
+      "division": 8,
+      "name": "Netrokona",
+      "name_bn": "নেত্রকোণা",
+      "lat": "24.870955",
+      "long": "90.727887"
+    }
+  },
+  {
+    "model": "bangladesh.District",
+    "pk": 64,
+    "fields": {
+      "division": 8,
+      "name": "Mymensingh",
+      "name_bn": "ময়মনসিংহ",
+      "lat": "24.7471",
+      "long": "90.4203"
+    }
+  }
+]

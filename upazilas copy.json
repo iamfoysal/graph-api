@@ -1,0 +1,776 @@
+[
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 1,
+    "fields": {
+      "district": 1,
+      "name": "Amtali",
+      "name_bn": "আমতলী"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 2,
+    "fields": {
+      "district": 1,
+      "name": "Bamna",
+      "name_bn": "বামনা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 3,
+    "fields": {
+      "district": 1,
+      "name": "Barguna Sadar",
+      "name_bn": "বরগুনা সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 4,
+    "fields": {
+      "district": 1,
+      "name": "Betagi",
+      "name_bn": "বেতাগি"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 5,
+    "fields": {
+      "district": 1,
+      "name": "Patharghata",
+      "name_bn": "পাথরঘাটা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 6,
+    "fields": {
+      "district": 1,
+      "name": "Taltali",
+      "name_bn": "তালতলী"
+    }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 7,
+    "fields": {
+      "district": 2,
+      "name": "Muladi",
+      "name_bn": "মুলাদি"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 8,
+    "fields": {
+      "district": 2,
+      "name": "Babuganj",
+      "name_bn": "বাবুগঞ্জ"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 9,
+    "fields": {
+      "district": 2,
+      "name": "Agailjhara",
+      "name_bn": "আগাইলঝরা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 10,
+    "fields": {
+      "district": 2,
+      "name": "Barisal Sadar",
+      "name_bn": "বরিশাল সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 11,
+    "fields": {
+      "district": 2,
+      "name": "Bakerganj",
+      "name_bn": "বাকেরগঞ্জ"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 12,
+    "fields": {
+      "district": 2,
+      "name": "Banaripara",
+      "name_bn": "বানাড়িপারা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 13,
+    "fields": {
+      "district": 2,
+      "name": "Gaurnadi",
+      "name_bn": "গৌরনদী"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 14,
+    "fields": {
+      "district": 2,
+      "name": "Hizla",
+      "name_bn": "হিজলা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 15,
+    "fields": {
+      "district": 2,
+      "name": "Mehendiganj",
+      "name_bn": "মেহেদিগঞ্জ "
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 16,
+    "fields": {
+      "district": 2,
+      "name": "Wazirpur",
+      "name_bn": "উজিরপুর"
+    }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 17,
+    "fields": {
+      "district": 3,
+      "name": "Bhola Sadar",
+      "name_bn": "ভোলা সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 18,
+    "fields": {
+      "district": 3,
+      "name": "Burhanuddin",
+      "name_bn": "বুরহানউদ্দিন"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 19,
+    "fields": {
+      "district": 3,
+      "name": "Char Fasson",
+      "name_bn": "চর ফ্যাশন"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 20,
+    "fields": {
+      "district": 3,
+      "name": "Daulatkhan",
+      "name_bn": "দৌলতখান"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 21,
+    "fields": {
+      "district": 3,
+      "name": "Lalmohan",
+      "name_bn": "লালমোহন"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 22,
+    "fields": {
+      "district": 3,
+      "name": "Manpura",
+      "name_bn": "মনপুরা"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 23,
+    "fields": {
+      "district": 3,
+      "name": "Tazumuddin",
+      "name_bn": "তাজুমুদ্দিন"
+    }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 24,
+    "fields": {
+      "district": 4,
+      "name": "Jhalokati Sadar",
+      "name_bn": "ঝালকাঠি সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 25,
+    "fields": {
+      "district": 4,
+      "name": "Kathalia",
+      "name_bn": "কাঁঠালিয়া"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 26,
+    "fields": {
+      "district": 4,
+      "name": "Nalchity",
+      "name_bn": "নালচিতি"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 27,
+    "fields": {
+      "district": 4,
+      "name": "Rajapur",
+      "name_bn": "রাজাপুর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 28,
+    "fields": { "district": 5, "name": "Bauphal", "name_bn": "বাউফল" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 29,
+    "fields": { "district": 5, "name": "Dashmina", "name_bn": "দশমিনা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 30,
+    "fields": { "district": 5, "name": "Galachipa", "name_bn": "গলাচিপা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 31,
+    "fields": { "district": 5, "name": "Kalapara", "name_bn": "কালাপারা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 32,
+    "fields": { "district": 5, "name": "Mirzaganj", "name_bn": "মির্জাগঞ্জ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 33,
+    "fields": {
+      "district": 5,
+      "name": "Patuakhali Sadar",
+      "name_bn": "পটুয়াখালী সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 34,
+    "fields": { "district": 5, "name": "Dumki", "name_bn": "ডুমকি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 35,
+    "fields": { "district": 5, "name": "Rangabali", "name_bn": "রাঙ্গাবালি" }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 36,
+    "fields": { "district": 6, "name": "Bhandaria", "name_bn": "ভ্যান্ডারিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 37,
+    "fields": { "district": 6, "name": "Kaukhali", "name_bn": "কাউখালি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 38,
+    "fields": { "district": 6, "name": "Mathbaria", "name_bn": "মাঠবাড়িয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 39,
+    "fields": { "district": 6, "name": "Nazirpur", "name_bn": "নাজিরপুর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 40,
+    "fields": { "district": 6, "name": "Nesarabad", "name_bn": "নেসারাবাদ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 41,
+    "fields": {
+      "district": 6,
+      "name": "Pirojpur Sadar",
+      "name_bn": "পিরোজপুর সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 42,
+    "fields": { "district": 6, "name": "Zianagar", "name_bn": "জিয়ানগর" }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 43,
+    "fields": {
+      "district": 7,
+      "name": "Bandarban Sadar",
+      "name_bn": "বান্দরবন সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 44,
+    "fields": { "district": 7, "name": "Thanchi", "name_bn": "থানচি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 45,
+    "fields": { "district": 7, "name": "Lama", "name_bn": "লামা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 46,
+    "fields": {
+      "district": 7,
+      "name": "Naikhongchhari",
+      "name_bn": "নাইখংছড়ি "
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 47,
+    "fields": { "district": 7, "name": "Ali kadam", "name_bn": "আলী কদম" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 48,
+    "fields": { "district": 7, "name": "Rowangchhari", "name_bn": "রউয়াংছড়ি " }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 49,
+    "fields": { "district": 7, "name": "Ruma", "name_bn": "রুমা" }
+  },
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 50,
+    "fields": {
+      "district": 8,
+      "name": "Brahmanbaria Sadar",
+      "name_bn": "ব্রাহ্মণবাড়িয়া সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 51,
+    "fields": { "district": 8, "name": "Ashuganj", "name_bn": "আশুগঞ্জ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 52,
+    "fields": { "district": 8, "name": "Nasirnagar", "name_bn": "নাসির নগর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 53,
+    "fields": { "district": 8, "name": "Nabinagar", "name_bn": "নবীনগর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 54,
+    "fields": { "district": 8, "name": "Sarail", "name_bn": "সরাইল" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 55,
+    "fields": {
+      "district": 8,
+      "name": "Shahbazpur Town",
+      "name_bn": "শাহবাজপুর টাউন"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 56,
+    "fields": { "district": 8, "name": "Kasba", "name_bn": "কসবা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 57,
+    "fields": { "district": 8, "name": "Akhaura", "name_bn": "আখাউরা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 58,
+    "fields": {
+      "district": 8,
+      "name": "Bancharampur",
+      "name_bn": "বাঞ্ছারামপুর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 59,
+    "fields": { "district": 8, "name": "Bijoynagar", "name_bn": "বিজয় নগর" }
+  },
+
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 60,
+    "fields": {
+      "district": 9,
+      "name": "Chandpur Sadar",
+      "name_bn": "চাঁদপুর সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 61,
+    "fields": { "district": 9, "name": "Faridganj", "name_bn": "ফরিদগঞ্জ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 62,
+    "fields": { "district": 9, "name": "Haimchar", "name_bn": "হাইমচর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 63,
+    "fields": { "district": 9, "name": "Haziganj", "name_bn": "হাজীগঞ্জ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 64,
+    "fields": { "district": 9, "name": "Kachua", "name_bn": "কচুয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 65,
+    "fields": { "district": 9, "name": "Matlab Uttar", "name_bn": "মতলব উত্তর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 66,
+    "fields": {
+      "district": 9,
+      "name": "Matlab Dakkhin",
+      "name_bn": "মতলব দক্ষিণ"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 67,
+    "fields": { "district": 9, "name": "Shahrasti", "name_bn": "শাহরাস্তি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 68,
+    "fields": { "district": 10, "name": "Anwara", "name_bn": "আনোয়ারা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 69,
+    "fields": { "district": 10, "name": "Banshkhali", "name_bn": "বাশখালি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 70,
+    "fields": { "district": 10, "name": "Boalkhali", "name_bn": "বোয়ালখালি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 71,
+    "fields": { "district": 10, "name": "Chandanaish", "name_bn": "চন্দনাইশ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 72,
+    "fields": { "district": 10, "name": "Fatikchhari", "name_bn": "ফটিকছড়ি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 73,
+    "fields": { "district": 10, "name": "Hathazari", "name_bn": "হাঠহাজারী" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 74,
+    "fields": { "district": 10, "name": "Lohagara", "name_bn": "লোহাগারা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 75,
+    "fields": { "district": 10, "name": "Mirsharai", "name_bn": "মিরসরাই" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 76,
+    "fields": { "district": 10, "name": "Patiya", "name_bn": "পটিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 77,
+    "fields": { "district": 10, "name": "Rangunia", "name_bn": "রাঙ্গুনিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 78,
+    "fields": { "district": 10, "name": "Raozan", "name_bn": "রাউজান" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 79,
+    "fields": { "district": 10, "name": "Sandwip", "name_bn": "সন্দ্বীপ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 80,
+    "fields": { "district": 10, "name": "Satkania", "name_bn": "সাতকানিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 81,
+    "fields": { "district": 10, "name": "Sitakunda", "name_bn": "সীতাকুণ্ড" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 82,
+    "fields": { "district": 11, "name": "Barura", "name_bn": "বড়ুরা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 83,
+    "fields": {
+      "district": 11,
+      "name": "Brahmanpara",
+      "name_bn": "ব্রাহ্মণপাড়া"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 84,
+    "fields": { "district": 11, "name": "Burichong", "name_bn": "বুড়িচং" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 85,
+    "fields": { "district": 11, "name": "Chandina", "name_bn": "চান্দিনা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 86,
+    "fields": { "district": 11, "name": "Chauddagram", "name_bn": "চৌদ্দগ্রাম" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 87,
+    "fields": { "district": 11, "name": "Daudkandi", "name_bn": "দাউদকান্দি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 88,
+    "fields": { "district": 11, "name": "Debidwar", "name_bn": "দেবীদ্বার" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 89,
+    "fields": { "district": 11, "name": "Homna", "name_bn": "হোমনা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 90,
+    "fields": {
+      "district": 11,
+      "name": "Comilla Sadar",
+      "name_bn": "কুমিল্লা সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 91,
+    "fields": { "district": 11, "name": "Laksam", "name_bn": "লাকসাম" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 92,
+    "fields": { "district": 11, "name": "Monohorgonj", "name_bn": "মনোহরগঞ্জ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 93,
+    "fields": { "district": 11, "name": "Meghna", "name_bn": "মেঘনা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 94,
+    "fields": { "district": 11, "name": "Muradnagar", "name_bn": "মুরাদনগর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 95,
+    "fields": { "district": 11, "name": "Nangalkot", "name_bn": "নাঙ্গালকোট" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 96,
+    "fields": {
+      "district": 11,
+      "name": "Comilla Sadar South",
+      "name_bn": "কুমিল্লা সদর দক্ষিণ"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 97,
+    "fields": { "district": 11, "name": "Titas", "name_bn": "তিতাস" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 98,
+    "fields": { "district": 12, "name": "Chakaria", "name_bn": "চকরিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 99,
+    "fields": {
+      "district": 12,
+      "name": "Cox's Bazar Sadar",
+      "name_bn": "কক্স বাজার সদর"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 100,
+    "fields": { "district": 12, "name": "Kutubdia", "name_bn": "কুতুবদিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 101,
+    "fields": { "district": 12, "name": "Maheshkhali", "name_bn": "মহেশখালী" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 102,
+    "fields": { "district": 12, "name": "Ramu", "name_bn": "রামু" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 103,
+    "fields": { "district": 12, "name": "Teknaf", "name_bn": "টেকনাফ" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 104,
+    "fields": { "district": 12, "name": "Ukhia", "name_bn": "উখিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 105,
+    "fields": { "district": 12, "name": "Pekua", "name_bn": "পেকুয়া" }
+  },
+
+  
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 106,
+    "fields": { "district": 13, "name": "Feni Sadar", "name_bn": "ফেনী সদর" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 107,
+    "fields": { "district": 13, "name": "Chagalnaiya", "name_bn": "ছাগল নাইয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 108,
+    "fields": { "district": 13, "name": "Daganbhyan", "name_bn": "দাগানভিয়া" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 109,
+    "fields": { "district": 13, "name": "Parshuram", "name_bn": "পরশুরাম" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 110,
+    "fields": { "district": 13, "name": "Fhulgazi", "name_bn": "ফুলগাজি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 111,
+    "fields": { "district": 13, "name": "Sonagazi", "name_bn": "সোনাগাজি" }
+  },
+
+
+
+
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 112,
+    "fields": { "district": 14, "name": "Dighinala", "name_bn": "দিঘিনালা " }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 113,
+    "fields": { "district": 14, "name": "Khagrachhari", "name_bn": "খাগড়াছড়ি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 114,
+    "fields": {
+      "district": 14,
+      "name": "Lakshmichhari",
+      "name_bn": "লক্ষ্মীছড়ি"
+    }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 115,
+    "fields": { "district": 14, "name": "Mahalchhari", "name_bn": "মহলছড়ি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 116,
+    "fields": { "district": 14, "name": "Manikchhari", "name_bn": "মানিকছড়ি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 117,
+    "fields": { "district": 14, "name": "Matiranga", "name_bn": "মাটিরাঙ্গা" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 118,
+    "fields": { "district": 14, "name": "Panchhari", "name_bn": "পানছড়ি" }
+  },
+  {
+    "model": "bangladesh.Upazila",
+    "pk": 119,
+    "fields": { "district": 14, "name": "Ramgarh", "name_bn": "রামগড়" }
+  }
+  
+]

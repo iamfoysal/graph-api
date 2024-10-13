@@ -11,11 +11,11 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 
+from pathlib import Path
 import django
 from django.utils.encoding import force_str
 django.utils.encoding.force_text = force_str
 
-from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -43,8 +43,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'api.apps.ApiConfig',
+    'django_filters',
     "graphene_django",
-    
+    'rest_framework',
+    'drf_yasg',
+    'bangladesh',
+
 ]
 
 
@@ -58,8 +62,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-GRAPHENE = {   
-    "SCHEMA": "api.schema.schema"
+GRAPHENE = {
+    "SCHEMA": "core.schema.schema"
 }
 
 ROOT_URLCONF = 'core.urls'
