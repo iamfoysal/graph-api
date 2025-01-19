@@ -569,7 +569,7 @@
       "model": "bangladesh.Upazila",
       "fields": {
         "district": 12,
-        "name": "{{198}}''{{199}}",
+        "name": "Cox's Bazar Sadar",
         "name_bn": "কক্স বাজার সদর"
       },
       "pk": 99
@@ -2957,5 +2957,14 @@
         "name_bn": "নানিয়ারচর"
       },
       "pk": 499
+    },
+    {
+    "model": "bangladesh.Upazila",
+      "fields": {
+        "district": 10,
+        "name": "Karnafuli",
+        "name_bn": "কর্ণফুলী"
+      },
+      "pk": 500
     }
   ]
