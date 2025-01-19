@@ -5148,5 +5148,65 @@
       "name_bn": "বালিয়া",
       "url": "baliaup.chandpur.gov.bd"
     }
+  },
+  {
+    "pk": "516",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Nayergaon (North)",
+      "name_bn": "নায়েরগাঁও (উত্তর)",
+      "url": "nayergaonnorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "517",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Nayergaon (South)",
+      "name_bn": "নায়েরগাঁও (দক্ষিন)",
+      "url": "nayergaonsouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "518",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Khadergaon",
+      "name_bn": "খাদেরগাঁও",
+      "url": "khadergaonup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "519",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Narayanpur",
+      "name_bn": "নারায়নপুর",
+      "url": "narayanpurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "520",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Upadi (South)",
+      "name_bn": "উপাদী (দক্ষিণ)",
+      "url": "upadisouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "521",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "66",
+      "name": "Upadi (North)",
+      "name_bn": "উপাদী (উত্তর)",
+      "url": "upadinorthup.chandpur.gov.bd"
+    }
   }
 ]
