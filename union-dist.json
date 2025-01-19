@@ -292,7 +292,7 @@
 {"id":"588","upazilla_id":"61","name":"Char Kadira","bn_name":"চর কাদিরা","url":"charkadiraup.lakshmipur.gov.bd"},
 {"id":"589","upazilla_id":"61","name":"Torabgonj","bn_name":"তোরাবগঞ্জ","url":"torabgonjup.lakshmipur.gov.bd"},
 {"id":"590","upazilla_id":"61","name":"Charlorench","bn_name":"চর লরেঞ্চ","url":"charlorenchup.lakshmipur.gov.bd"},
-
+// 590 complete
 {"id":"591","upazilla_id":"62","name":"North Char Ababil","bn_name":"উত্তর চর আবাবিল","url":"northcharababilup.lakshmipur.gov.bd"},
 {"id":"592","upazilla_id":"62","name":"North Char Bangshi","bn_name":"উত্তর চর বংশী","url":"northcharbangshiup.lakshmipur.gov.bd"},
 {"id":"593","upazilla_id":"62","name":"Char Mohana","bn_name":"চর মোহনা","url":"charmohanaup.lakshmipur.gov.bd"},
@@ -303,6 +303,7 @@
 {"id":"598","upazilla_id":"62","name":"South Char Ababil","bn_name":"দক্ষিন চর আবাবিল","url":"southcharababilup.lakshmipur.gov.bd"},
 {"id":"599","upazilla_id":"62","name":"Raipur","bn_name":"রায়পুর","url":"raipurup.lakshmipur.gov.bd"},
 {"id":"600","upazilla_id":"62","name":"Keora","bn_name":"কেরোয়া","url":"keoraup.lakshmipur.gov.bd"},
+// 600 complete
 {"id":"601","upazilla_id":"63","name":"Char Poragacha","bn_name":"চর পোড়াগাছা","url":"charporagachaup.lakshmipur.gov.bd"},
 {"id":"602","upazilla_id":"63","name":"Charbadam","bn_name":"চর বাদাম","url":"charbadamup.lakshmipur.gov.bd"},
 {"id":"603","upazilla_id":"63","name":"Char Abdullah","bn_name":"চর আবদুল্যাহ","url":"charabdullahup.lakshmipur.gov.bd"},

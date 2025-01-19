@@ -5899,5 +5899,105 @@
       "name_bn": "চর লরেঞ্চ",
       "url": "charlorenchup.lakshmipur.gov.bd"
     }
+  },
+  {
+    "pk": "591",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "North Char Ababil",
+      "name_bn": "উত্তর চর আবাবিল",
+      "url": "northcharababilup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "592",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "North Char Bangshi",
+      "name_bn": "উত্তর চর বংশী",
+      "url": "northcharbangshiup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "593",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Char Mohana",
+      "name_bn": "চর মোহনা",
+      "url": "charmohanaup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "594",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Sonapur",
+      "name_bn": "সোনাপুর",
+      "url": "sonapurup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "595",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Charpata",
+      "name_bn": "চর পাতা",
+      "url": "charpataup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "596",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Bamni",
+      "name_bn": "বামনী",
+      "url": "bamniup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "597",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "South Char Bangshi",
+      "name_bn": "দক্ষিন চর বংশী",
+      "url": "southcharbangshiup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "598",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "South Char Ababil",
+      "name_bn": "দক্ষিন চর আবাবিল",
+      "url": "southcharababilup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "599",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Raipur",
+      "name_bn": "রায়পুর",
+      "url": "raipurup.lakshmipur.gov.bd"
+    }
+  },
+  {
+    "pk": "600",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "121",
+      "name": "Keora",
+      "name_bn": "কেরোয়া",
+      "url": "keoraup.lakshmipur.gov.bd"
+    }
   }
 ]
