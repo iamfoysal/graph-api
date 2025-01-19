@@ -280,7 +280,9 @@
 {"id":"578","upazilla_id":"60","name":"Sakchor","bn_name":"শাকচর","url":"sakchorup.lakshmipur.gov.bd"},
 {"id":"579","upazilla_id":"60","name":"Tearigonj","bn_name":"তেয়ারীগঞ্জ","url":"tearigonjup.lakshmipur.gov.bd"},
 {"id":"580","upazilla_id":"60","name":"Tumchor","bn_name":"টুমচর","url":"tumchorup.lakshmipur.gov.bd"},
-{"id":"581","upazilla_id":"60","name":"Charramoni Mohon","bn_name":"চররমনী মোহন","url":"charramonimohonup.lakshmipur.gov.bd"},
+{"id":"581","upazilla_id":"120","name":"Charramoni Mohon","bn_name":"চররমনী মোহন","url":"charramonimohonup.lakshmipur.gov.bd"},
+
+
 {"id":"582","upazilla_id":"61","name":"Charkalkini","bn_name":"চর কালকিনি","url":"charkalkiniup.lakshmipur.gov.bd"},
 {"id":"583","upazilla_id":"61","name":"Shaheberhat","bn_name":"সাহেবেরহাট","url":"shaheberhatup.lakshmipur.gov.bd"},
 {"id":"584","upazilla_id":"61","name":"Char Martin","bn_name":"চর মার্টিন","url":"charmartinup.lakshmipur.gov.bd"},
@@ -290,6 +292,7 @@
 {"id":"588","upazilla_id":"61","name":"Char Kadira","bn_name":"চর কাদিরা","url":"charkadiraup.lakshmipur.gov.bd"},
 {"id":"589","upazilla_id":"61","name":"Torabgonj","bn_name":"তোরাবগঞ্জ","url":"torabgonjup.lakshmipur.gov.bd"},
 {"id":"590","upazilla_id":"61","name":"Charlorench","bn_name":"চর লরেঞ্চ","url":"charlorenchup.lakshmipur.gov.bd"},
+
 {"id":"591","upazilla_id":"62","name":"North Char Ababil","bn_name":"উত্তর চর আবাবিল","url":"northcharababilup.lakshmipur.gov.bd"},
 {"id":"592","upazilla_id":"62","name":"North Char Bangshi","bn_name":"উত্তর চর বংশী","url":"northcharbangshiup.lakshmipur.gov.bd"},
 {"id":"593","upazilla_id":"62","name":"Char Mohana","bn_name":"চর মোহনা","url":"charmohanaup.lakshmipur.gov.bd"},
