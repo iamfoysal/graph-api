@@ -214,7 +214,7 @@
 {"id":"519","upazilla_id":"56","name":"Narayanpur","bn_name":"নারায়নপুর","url":"narayanpurup.chandpur.gov.bd"},
 {"id":"520","upazilla_id":"56","name":"Upadi (South)","bn_name":"উপাদী (দক্ষিণ)","url":"upadisouthup.chandpur.gov.bd"},
 {"id":"521","upazilla_id":"56","name":"Upadi (North)","bn_name":"উপাদী (উত্তর)","url":"upadinorthup.chandpur.gov.bd"},
-
+// complete 521
 
 {"id":"522","upazilla_id":"57","name":"Rajargaon (North)","bn_name":"রাজারগাঁও (উত্তর)","url":"rajargaonnorthup.chandpur.gov.bd"},
 {"id":"523","upazilla_id":"57","name":"Bakila","bn_name":"বাকিলা","url":"bakilaup.chandpur.gov.bd"},
@@ -227,6 +227,9 @@
 {"id":"530","upazilla_id":"57","name":"Hatila (West)","bn_name":"হাটিলা (পশ্চিম)","url":"hatilawestup.chandpur.gov.bd"},
 {"id":"531","upazilla_id":"57","name":"Gandharbapur (North)","bn_name":"গন্ধর্ব্যপুর (উত্তর)","url":"gandharbapurnorthup.chandpur.gov.bd"},
 {"id":"532","upazilla_id":"57","name":"Gandharbapur (South)","bn_name":"গন্ধর্ব্যপুর (দক্ষিণ)","url":"gandharbapursouthup.chandpur.gov.bd"},
+// complete 532
+
+
 {"id":"533","upazilla_id":"58","name":"Satnal","bn_name":"ষাটনল","url":"satnalup.chandpur.gov.bd"},
 {"id":"534","upazilla_id":"58","name":"Banganbari","bn_name":"বাগানবাড়ী","url":"banganbariup.chandpur.gov.bd"},
 {"id":"535","upazilla_id":"58","name":"Sadullapur","bn_name":"সাদুল্ল্যাপুর","url":"sadullapurup.chandpur.gov.bd"},
@@ -241,6 +244,7 @@
 {"id":"544","upazilla_id":"58","name":"Islamabad","bn_name":"ইসলামাবাদ","url":"islamabadup.chandpur.gov.bd"},
 {"id":"545","upazilla_id":"58","name":"Sultanabad","bn_name":"সুলতানাবাদ","url":"sultanabadup.chandpur.gov.bd"},
 {"id":"546","upazilla_id":"58","name":"Gazra","bn_name":"গজরা","url":"gazraup.chandpur.gov.bd"},
+// Complete 546
 {"id":"547","upazilla_id":"59","name":"Balithuba (West)","bn_name":"বালিথুবা (পশ্চিম)","url":"balithubawestup.chandpur.gov.bd"},
 {"id":"548","upazilla_id":"59","name":"Balithuba (East)","bn_name":"বালিথুবা (পূর্ব)","url":"balithubaeastup.chandpur.gov.bd"},
 {"id":"549","upazilla_id":"59","name":"Subidpur (East)","bn_name":"সুবিদপুর (পূর্ব)","url":"subidpureastup.chandpur.gov.bd"},
@@ -256,6 +260,7 @@
 {"id":"559","upazilla_id":"59","name":"Faridgonj (South)","bn_name":"ফরিদ্গঞ্জ (দক্ষিণ)","url":"faridgonjsouthup.chandpur.gov.bd"},
 {"id":"560","upazilla_id":"59","name":"Rupsha (South)","bn_name":"রুপসা (দক্ষিণ)","url":"rupshasouthup.chandpur.gov.bd"},
 {"id":"561","upazilla_id":"59","name":"Rupsha (North)","bn_name":"রুপসা (উত্তর)","url":"rupshanorthup.chandpur.gov.bd"},
+// Complete 561
 {"id":"562","upazilla_id":"60","name":"Hamsadi (North)","bn_name":"হামছাদী (উত্তর)","url":"northhamsadiup.lakshmipur.gov.bd"},
 {"id":"563","upazilla_id":"60","name":"Hamsadi (South)","bn_name":"হামছাদী (দক্ষিন)","url":"southhamsadiup.lakshmipur.gov.bd"},
 {"id":"564","upazilla_id":"60","name":"Dalalbazar","bn_name":"দালাল বাজার","url":"dalalbazarup.lakshmipur.gov.bd"},

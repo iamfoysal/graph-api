@@ -5208,5 +5208,405 @@
       "name_bn": "উপাদী (উত্তর)",
       "url": "upadinorthup.chandpur.gov.bd"
     }
+  },
+  {
+    "pk": "522",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Rajargaon (North)",
+      "name_bn": "রাজারগাঁও (উত্তর)",
+      "url": "rajargaonnorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "523",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Bakila",
+      "name_bn": "বাকিলা",
+      "url": "bakilaup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "524",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Kalocho (North)",
+      "name_bn": "কালচোঁ (উত্তর)",
+      "url": "kalochonorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "525",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Hajiganj Sadar",
+      "name_bn": "হাজীগঞ্জ সদর",
+      "url": "hajiganjsadarup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "526",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Kalocho (South)",
+      "name_bn": "কালচোঁ (দক্ষিণ)",
+      "url": "kalochosouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "527",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Barkul (East)",
+      "name_bn": "বড়কুল (পূর্ব)",
+      "url": "barkuleastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "528",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Barkul (West)",
+      "name_bn": "বড়কুল (পশ্চিম)",
+      "url": "barkulwestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "529",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Hatila (East)",
+      "name_bn": "হাটিলা (পূর্ব)",
+      "url": "hatilaeastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "530",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Hatila (West)",
+      "name_bn": "হাটিলা (পশ্চিম)",
+      "url": "hatilawestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "531",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Gandharbapur (North)",
+      "name_bn": "গন্ধর্ব্যপুর (উত্তর)",
+      "url": "gandharbapurnorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "532",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "63",
+      "name": "Gandharbapur (South)",
+      "name_bn": "গন্ধর্ব্যপুর (দক্ষিণ)",
+      "url": "gandharbapursouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "533",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Satnal",
+      "name_bn": "ষাটনল",
+      "url": "satnalup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "534",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Banganbari",
+      "name_bn": "বাগানবাড়ী",
+      "url": "banganbariup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "535",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Sadullapur",
+      "name_bn": "সাদুল্ল্যাপুর",
+      "url": "sadullapurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "536",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Durgapur",
+      "name_bn": "দূর্গাপুর",
+      "url": "durgapurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "537",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Kalakanda",
+      "name_bn": "কালাকান্দা",
+      "url": "kalakandaup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "538",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Mohanpur",
+      "name_bn": "মোহনপুর",
+      "url": "mohanpurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "539",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Eklaspur",
+      "name_bn": "এখলাছপুর",
+      "url": "eklaspurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "540",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Jahirabad",
+      "name_bn": "জহিরাবাদ",
+      "url": "jahirabadup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "541",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Fatehpur (East)",
+      "name_bn": "ফতেহপুর (পূর্ব)",
+      "url": "eastfatehpur.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "542",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Fatehpur (West)",
+      "name_bn": "ফতেহপুর (পশ্চিম)",
+      "url": "westfatehpurup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "543",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Farajikandi",
+      "name_bn": "ফরাজীকান্দি",
+      "url": "farajikandiup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "544",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Islamabad",
+      "name_bn": "ইসলামাবাদ",
+      "url": "islamabadup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "545",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Sultanabad",
+      "name_bn": "সুলতানাবাদ",
+      "url": "sultanabadup.chandpur.gov.bd"
+    }
+  },
+  {
+    "pk": "546",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "65",
+      "name": "Gazra",
+      "name_bn": "গজরা",
+      "url": "gazraup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "547",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Balithuba (West)",
+      "name_bn": "বালিথুবা (পশ্চিম)",
+      "url": "balithubawestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "548",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Balithuba (East)",
+      "name_bn": "বালিথুবা (পূর্ব)",
+      "url": "balithubaeastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "549",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Subidpur (East)",
+      "name_bn": "সুবিদপুর (পূর্ব)",
+      "url": "subidpureastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "550",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Subidpur (West)",
+      "name_bn": "সুবিদপুর (পশ্চিম)",
+      "url": "subidpurwestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "551",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Gupti (West)",
+      "name_bn": "গুপ্তি (পশ্চিম)",
+      "url": "guptiwestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "552",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Gupti (East)",
+      "name_bn": "গুপ্তি (পূর্ব)",
+      "url": "guptieastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "553",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Paikpara (North)",
+      "name_bn": "পাইকপাড়া (উত্তর)",
+      "url": "paikparanorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "554",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Paikpara (South)",
+      "name_bn": "পাইকপাড়া (দক্ষিণ)",
+      "url": "paikparasouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "555",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Gobindapur (North)",
+      "name_bn": "গবিন্দপুর (উত্তর)",
+      "url": "gobindapurnorthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "556",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Gobindapur (South)",
+      "name_bn": "গবিন্দপুর (দক্ষিণ)",
+      "url": "gobindapursouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "557",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Chardukhia (East)",
+      "name_bn": "চরদুখিয়া (পূর্ব)",
+      "url": "chardukhiaeastup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "558",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Chardukhia (West)",
+      "name_bn": "চরদুঃখিয়া (পশ্চিম)",
+      "url": "chardukhiawestup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "559",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Faridgonj (South)",
+      "name_bn": "ফরিদ্গঞ্জ (দক্ষিণ)",
+      "url": "faridgonjsouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "560",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Rupsha (South)",
+      "name_bn": "রুপসা (দক্ষিণ)",
+      "url": "rupshasouthup.chandpur.gov.bd"
+    }
+  },
+  {
+    "id": "561",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "61",
+      "name": "Rupsha (North)",
+      "name_bn": "রুপসা (উত্তর)",
+      "url": "rupshanorthup.chandpur.gov.bd"
+    }
   }
 ]
