@@ -13,6 +13,7 @@ class DistrictAdmin(admin.ModelAdmin):
 class UpazilaAdmin(admin.ModelAdmin):
     list_display = ['get_division_name', 'district', 'name', 'name_bn', 'created']
     search_fields = ['district__name', 'name', 'name_bn']
+    list_filter = ['district']
 
     def get_division_name(self, obj):
         return obj.district.division.name if obj.district.division else ''
