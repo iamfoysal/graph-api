@@ -14,6 +14,8 @@ text-unidecode==1.3
 django-filter
 tzdata==2022.2
 djangorestframework
+psycopg2-binary
+drf_yasg
 
 
 

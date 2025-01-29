@@ -2,4241 +2,6911 @@
   {
     "pk": 1000,
     "model": "bangladesh.Union",
-    "upazila": 392,
     "fields": {
       "name": "Sonatoni",
       "name_bn": "সোনাতনী",
-      "url": "sonatoniup.sirajganj.gov.bd"
+      "url": "sonatoniup.sirajganj.gov.bd",
+      "upazila": 392
     }
   },
   {
     "pk": 1001,
     "model": "bangladesh.Union",
-    "upazila": 392,
     "fields": {
       "name": "Narina",
       "name_bn": "নরিনা",
-      "url": "narinaup.sirajganj.gov.bd"
+      "url": "narinaup.sirajganj.gov.bd",
+      "upazila": 392
     }
   },
   {
     "pk": 1002,
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Bagbati",
       "name_bn": "বাগবাটি",
-      "url": "bagbatiup.sirajganj.gov.bd"
+      "url": "bagbatiup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1003",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Ratankandi",
       "name_bn": "রতনকান্দি",
-      "url": "ratankandiup.sirajganj.gov.bd"
+      "url": "ratankandiup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1004",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Bohuli",
       "name_bn": "বহুলী",
-      "url": "bohuliup.sirajganj.gov.bd"
+      "url": "bohuliup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1005",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Sheyalkol",
       "name_bn": "শিয়ালকোল",
-      "url": "sheyalkolup.sirajganj.gov.bd"
+      "url": "sheyalkolup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1006",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Khokshabari",
       "name_bn": "খোকশাবাড়ী",
-      "url": "khokshabariup.nilphamari.gov.bd"
+      "url": "khokshabariup.nilphamari.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1007",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Songacha",
       "name_bn": "ছোনগাছা",
-      "url": "songachaup.sirajganj.gov.bd"
+      "url": "songachaup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1008",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Mesra",
       "name_bn": "মেছড়া",
-      "url": "mesraup.sirajganj.gov.bd"
+      "url": "mesraup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1009",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Kowakhola",
       "name_bn": "কাওয়াখোলা",
-      "url": "kowakholaup.sirajganj.gov.bd"
+      "url": "kowakholaup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1010",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Kaliahoripur",
       "name_bn": "কালিয়াহরিপুর",
-      "url": "kaliahoripurup.sirajganj.gov.bd"
+      "url": "kaliahoripurup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1011",
     "model": "bangladesh.Union",
-    "upazila": "385",
     "fields": {
       "name": "Soydabad",
       "name_bn": "সয়দাবাদ",
-      "url": "soydabadup.sirajganj.gov.bd"
+      "url": "soydabadup.sirajganj.gov.bd",
+      "upazila": "385"
     }
   },
   {
     "pk": "1012",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Baruhas",
       "name_bn": "বারুহাস",
-      "url": "baruhasup.sirajganj.gov.bd"
+      "url": "baruhasup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1013",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Talam",
       "name_bn": "তালম",
-      "url": "talamup.sirajganj.gov.bd"
+      "url": "talamup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1014",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Soguna",
       "name_bn": "সগুনা",
-      "url": "sogunaup.sirajganj.gov.bd"
+      "url": "sogunaup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1015",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Magura Binod",
       "name_bn": "মাগুড়া বিনোদ",
-      "url": "magurabinodup.sirajganj.gov.bd"
+      "url": "magurabinodup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1016",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Naogaon",
       "name_bn": "নওগাঁ",
-      "url": "naogaonup.sirajganj.gov.bd"
+      "url": "naogaonup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1017",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Tarash Sadar",
       "name_bn": "তাড়াশ সদর",
-      "url": "tarashsadarup.sirajganj.gov.bd"
+      "url": "tarashsadarup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1018",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Madhainagar",
       "name_bn": "মাধাইনগর",
-      "url": "madhainagarup.sirajganj.gov.bd"
+      "url": "madhainagarup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1019",
     "model": "bangladesh.Union",
-    "upazila": "392",
     "fields": {
       "name": "Deshigram",
       "name_bn": "দেশীগ্রাম",
-      "url": "deshigramup.sirajganj.gov.bd"
+      "url": "deshigramup.sirajganj.gov.bd",
+      "upazila": "392"
     }
   },
   {
     "pk": "1020",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Ullapara Sadar",
       "name_bn": "উল্লাপাড়া সদর",
-      "url": "ullaparasadarup.sirajganj.gov.bd"
+      "url": "ullaparasadarup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1021",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Ramkrisnopur",
       "name_bn": "রামকৃষ্ণপুর",
-      "url": "ramkrisnopurup.sirajganj.gov.bd"
+      "url": "ramkrisnopurup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1022",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Bangala",
       "name_bn": "বাঙ্গালা",
-      "url": "bangalaup.sirajganj.gov.bd"
+      "url": "bangalaup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1023",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Udhunia",
       "name_bn": "উধুনিয়া",
-      "url": "udhuniaup.sirajganj.gov.bd"
+      "url": "udhuniaup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1024",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Boropangashi",
       "name_bn": "বড়পাঙ্গাসী",
-      "url": "boropangashiup.sirajganj.gov.bd"
+      "url": "boropangashiup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1025",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Durga Nagar",
       "name_bn": "দুর্গা নগর",
-      "url": "durganagarup.sirajganj.gov.bd"
+      "url": "durganagarup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1026",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Purnimagati",
       "name_bn": "পূর্ণিমাগাতী",
-      "url": "purnimagatiup.sirajganj.gov.bd"
+      "url": "purnimagatiup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1027",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Salanga",
       "name_bn": "সলঙ্গা",
-      "url": "salangaup.sirajganj.gov.bd"
+      "url": "salangaup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1028",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Hatikumrul",
       "name_bn": "হটিকুমরুল",
-      "url": "hatikumrulup.sirajganj.gov.bd"
+      "url": "hatikumrulup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1029",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Borohor",
       "name_bn": "বড়হর",
-      "url": "borohorup.sirajganj.gov.bd"
+      "url": "borohorup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1030",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Ponchocroshi",
       "name_bn": "পঞ্চক্রোশী",
-      "url": "ponchocroshiup.sirajganj.gov.bd"
+      "url": "ponchocroshiup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1031",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Salo",
       "name_bn": "সলপ",
-      "url": "salopup.sirajganj.gov.bd"
+      "url": "salopup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1032",
     "model": "bangladesh.Union",
-    "upazila": "393",
     "fields": {
       "name": "Mohonpur",
       "name_bn": "মোহনপুর",
-      "url": "mohonpurup.sirajganj.gov.bd"
+      "url": "mohonpurup.sirajganj.gov.bd",
+      "upazila": "393"
     }
   },
   {
     "pk": "1033",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Vaina",
       "name_bn": "ভায়না",
-      "url": "vainaup.pabna.gov.bd"
+      "url": "vainaup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1034",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Tantibonda",
       "name_bn": "তাঁতিবন্দ",
-      "url": "tantibondaup.pabna.gov.bd"
+      "url": "tantibondaup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1035",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Manikhat",
       "name_bn": "মানিকহাট",
-      "url": "manikhatup.pabna.gov.bd"
+      "url": "manikhatup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1036",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Dulai",
       "name_bn": "দুলাই",
-      "url": "dulaiup.pabna.gov.bd"
+      "url": "dulaiup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1037",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Ahammadpur",
       "name_bn": "আহম্মদপুর",
-      "url": "ahammadpurup.pabna.gov.bd"
+      "url": "ahammadpurup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1038",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Raninagar",
       "name_bn": "রাণীনগর",
-      "url": "raninagarup.pabna.gov.bd"
+      "url": "raninagarup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1039",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Satbaria",
       "name_bn": "সাতবাড়ীয়া",
-      "url": "satbariaup.pabna.gov.bd"
+      "url": "satbariaup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1040",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Hatkhali",
       "name_bn": "হাটখালী",
-      "url": "hatkhaliup.pabna.gov.bd"
+      "url": "hatkhaliup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1041",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Nazirganj",
       "name_bn": "নাজিরগঞ্জ",
-      "url": "nazirganjup.pabna.gov.bd"
+      "url": "nazirganjup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1042",
     "model": "bangladesh.Union",
-    "upazila": "375",
     "fields": {
       "name": "Sagorkandi",
       "name_bn": "সাগরকান্দি",
-      "url": "sagorkandiup.pabna.gov.bd"
+      "url": "sagorkandiup.pabna.gov.bd",
+      "upazila": "375"
     }
   },
   {
     "pk": "1043",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Sara",
       "name_bn": "সাঁড়া",
-      "url": "saraup.pabna.gov.bd"
+      "url": "saraup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1044",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Pakshi",
       "name_bn": "পাকশী",
-      "url": "pakshiup.pabna.gov.bd"
+      "url": "pakshiup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1045",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Muladuli",
       "name_bn": "মুলাডুলি",
-      "url": "muladuliup.pabna.gov.bd"
+      "url": "muladuliup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1046",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Dashuria",
       "name_bn": "দাশুরিয়া",
-      "url": "dashuriaup.pabna.gov.bd"
+      "url": "dashuriaup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1047",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Silimpur",
       "name_bn": "ছলিমপুর",
-      "url": "silimpurup.pabna.gov.bd"
+      "url": "silimpurup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1048",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Sahapur",
       "name_bn": "সাহাপুর",
-      "url": "sahapurup.pabna.gov.bd"
+      "url": "sahapurup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1049",
     "model": "bangladesh.Union",
-    "upazila": "372",
     "fields": {
       "name": "Luxmikunda",
       "name_bn": "লক্ষীকুন্ডা",
-      "url": "luxmikundaup.pabna.gov.bd"
+      "url": "luxmikundaup.pabna.gov.bd",
+      "upazila": "372"
     }
   },
   {
     "pk": "1050",
     "model": "bangladesh.Union",
-    "upazila": "369",
     "fields": {
       "name": "Bhangura",
       "name_bn": "ভাঙ্গুড়া",
-      "url": "bhanguraup.pabna.gov.bd"
+      "url": "bhanguraup.pabna.gov.bd",
+      "upazila": "369"
     }
   },
   {
     "pk": "1051",
     "model": "bangladesh.Union",
-    "upazila": "369",
     "fields": {
       "name": "Khanmarich",
       "name_bn": "খানমরিচ",
-      "url": "khanmarichup.pabna.gov.bd"
+      "url": "khanmarichup.pabna.gov.bd",
+      "upazila": "369"
     }
   },
   {
     "pk": "1052",
     "model": "bangladesh.Union",
-    "upazila": "369",
     "fields": {
       "name": "Ashtamanisha",
       "name_bn": "অষ্টমণিষা",
-      "url": "ashtamanishaup.pabna.gov.bd"
+      "url": "ashtamanishaup.pabna.gov.bd",
+      "upazila": "369"
     }
   },
   {
     "pk": "1053",
     "model": "bangladesh.Union",
-    "upazila": "369",
     "fields": {
       "name": "Dilpasar",
       "name_bn": "দিলপাশার",
-      "url": "dilpasarup.pabna.gov.bd"
+      "url": "dilpasarup.pabna.gov.bd",
+      "upazila": "369"
     }
   },
   {
     "pk": "1054",
     "model": "bangladesh.Union",
-    "upazila": "369",
     "fields": {
       "name": "Parbhangura",
       "name_bn": "পারভাঙ্গুড়া",
-      "url": "parbhanguraup.pabna.gov.bd"
+      "url": "parbhanguraup.pabna.gov.bd",
+      "upazila": "369"
     }
   },
   {
     "pk": "1055",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Maligachha",
       "name_bn": "মালিগাছা",
-      "url": "maligachhaup.pabna.gov.bd"
+      "url": "maligachhaup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1056",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Malanchi",
       "name_bn": "মালঞ্চি",
-      "url": "malanchiup.pabna.gov.bd"
+      "url": "malanchiup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1057",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Gayeshpur",
       "name_bn": "গয়েশপুর",
-      "url": "gayeshpurup.pabna.gov.bd"
+      "url": "gayeshpurup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1058",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Ataikula",
       "name_bn": "আতাইকুলা",
-      "url": "ataikulaup.pabna.gov.bd"
+      "url": "ataikulaup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1059",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Chartarapur",
       "name_bn": "চরতারাপুর",
-      "url": "chartarapurup.pabna.gov.bd"
+      "url": "chartarapurup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1060",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Sadullahpur",
       "name_bn": "সাদুল্লাপুর",
-      "url": "sadullahpurup.pabna.gov.bd"
+      "url": "sadullahpurup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1061",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Bharara",
       "name_bn": "ভাঁড়ারা",
-      "url": "bhararaup.pabna.gov.bd"
+      "url": "bhararaup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1062",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Dogachi",
       "name_bn": "দোগাছী",
-      "url": "dogachiup.pabna.gov.bd"
+      "url": "dogachiup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1063",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Hemayetpur",
       "name_bn": "হেমায়েতপুর",
-      "url": "hemayetpurup.pabna.gov.bd"
+      "url": "hemayetpurup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1064",
     "model": "bangladesh.Union",
-    "upazila": "373",
     "fields": {
       "name": "Dapunia",
       "name_bn": "দাপুনিয়া",
-      "url": "dapuniaup.pabna.gov.bd"
+      "url": "dapuniaup.pabna.gov.bd",
+      "upazila": "373"
     }
   },
   {
     "pk": "1065",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Haturia Nakalia",
       "name_bn": "হাটুরিয়া নাকালিয়া",
-      "url": "haturianakaliaup.pabna.gov.bd"
+      "url": "haturianakaliaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1066",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Notun Varenga",
       "name_bn": "নতুন ভারেঙ্গা",
-      "url": "notunvarengaup.pabna.gov.bd"
+      "url": "notunvarengaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1067",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Koitola",
       "name_bn": "কৈটোলা",
-      "url": "koitolaup.pabna.gov.bd"
+      "url": "koitolaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1068",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Chakla",
       "name_bn": "চাকলা",
-      "url": "chaklaup.pabna.gov.bd"
+      "url": "chaklaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1069",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Jatsakhini",
       "name_bn": "জাতসাখিনি",
-      "url": "jatsakhiniup.pabna.gov.bd"
+      "url": "jatsakhiniup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1070",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Puran Varenga",
       "name_bn": "পুরান ভারেঙ্গা",
-      "url": "puranvarengaup.pabna.gov.bd"
+      "url": "puranvarengaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1071",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Ruppur",
       "name_bn": "রূপপুর",
-      "url": "ruppurup.pabna.gov.bd"
+      "url": "ruppurup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1072",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Masumdia",
       "name_bn": "মাসুমদিয়া",
-      "url": "masumdiaup.pabna.gov.bd"
+      "url": "masumdiaup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1073",
     "model": "bangladesh.Union",
-    "upazila": "368",
     "fields": {
       "name": "Dhalar Char",
       "name_bn": "ঢালার চর",
-      "url": "dhalarcharup.pabna.gov.bd"
+      "url": "dhalarcharup.pabna.gov.bd",
+      "upazila": "368"
     }
   },
   {
     "pk": "1074",
     "model": "bangladesh.Union",
-    "upazila": "367",
     "fields": {
       "name": "Majhpara",
       "name_bn": "মাজপাড়া",
-      "url": "majhparaup.pabna.gov.bd"
+      "url": "majhparaup.pabna.gov.bd",
+      "upazila": "367"
     }
   },
   {
     "pk": "1075",
     "model": "bangladesh.Union",
-    "upazila": "367",
     "fields": {
       "name": "Chandba",
       "name_bn": "চাঁদভা",
-      "url": "chandbaup.pabna.gov.bd"
+      "url": "chandbaup.pabna.gov.bd",
+      "upazila": "367"
     }
   },
   {
     "pk": "1076",
     "model": "bangladesh.Union",
-    "upazila": "367",
     "fields": {
       "name": "Debottar",
       "name_bn": "দেবোত্তর",
-      "url": "debottarup.pabna.gov.bd"
+      "url": "debottarup.pabna.gov.bd",
+      "upazila": "367"
     }
   },
   {
     "pk": "1077",
     "model": "bangladesh.Union",
-    "upazila": "367",
     "fields": {
       "name": "Ekdanta",
       "name_bn": "একদন্ত",
-      "url": "ekdantaup.pabna.gov.bd"
+      "url": "ekdantaup.pabna.gov.bd",
+      "upazila": "367"
     }
   },
   {
     "pk": "1078",
     "model": "bangladesh.Union",
-    "upazila": "367",
     "fields": {
       "name": "Laxshmipur",
       "name_bn": "লক্ষীপুর",
-      "url": "laxshmipurup.pabna.gov.bd"
+      "url": "laxshmipurup.pabna.gov.bd",
+      "upazila": "367"
     }
   },
   {
     "pk": "1079",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Handial",
       "name_bn": "হান্ডিয়াল",
-      "url": "handialup.pabna.gov.bd"
+      "url": "handialup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1080",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Chhaikola",
       "name_bn": "ছাইকোলা",
-      "url": "chhaikolaup.pabna.gov.bd"
+      "url": "chhaikolaup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1081",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Nimaichara",
       "name_bn": "নিমাইচড়া",
-      "url": "nimaicharaup.pabna.gov.bd"
+      "url": "nimaicharaup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1082",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Gunaigachha",
       "name_bn": "গুনাইগাছা",
-      "url": "gunaigachhaup.pabna.gov.bd"
+      "url": "gunaigachhaup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1083",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Parshadanga",
       "name_bn": "পার্শ্বডাঙ্গা",
-      "url": "parshadangaup.pabna.gov.bd"
+      "url": "parshadangaup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1084",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Failjana",
       "name_bn": "ফৈলজানা",
-      "url": "failjanaup.pabna.gov.bd"
+      "url": "failjanaup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1085",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Mulgram",
       "name_bn": "মুলগ্রাম",
-      "url": "mulgramup.pabna.gov.bd"
+      "url": "mulgramup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1086",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Haripur",
       "name_bn": "হরিপুর",
-      "url": "haripurup.pabna.gov.bd"
+      "url": "haripurup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1087",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Mothurapur",
       "name_bn": "মথুরাপুর",
-      "url": "mothurapurup.pabna.gov.bd"
+      "url": "mothurapurup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1088",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Bilchalan",
       "name_bn": "বিলচলন",
-      "url": "bilchalanup.pabna.gov.bd"
+      "url": "bilchalanup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1089",
     "model": "bangladesh.Union",
-    "upazila": "370",
     "fields": {
       "name": "Danthia Bamangram",
       "name_bn": "দাতিয়া বামনগ্রাম",
-      "url": "danthiabamangramup.pabna.gov.bd"
+      "url": "danthiabamangramup.pabna.gov.bd",
+      "upazila": "370"
     }
   },
   {
     "pk": "1090",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Nagdemra",
       "name_bn": "নাগডেমড়া",
-      "url": "nagdemraup.pabna.gov.bd"
+      "url": "nagdemraup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1091",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Dhulauri",
       "name_bn": "ধুলাউড়ি",
-      "url": "dhulauriup.pabna.gov.bd"
+      "url": "dhulauriup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1092",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Bhulbaria",
       "name_bn": "ভুলবাড়ীয়া",
-      "url": "bhulbariaup.pabna.gov.bd"
+      "url": "bhulbariaup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1093",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Dhopadaha",
       "name_bn": "ধোপাদহ",
-      "url": "dhopadahaup.pabna.gov.bd"
+      "url": "dhopadahaup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1094",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Karamja",
       "name_bn": "করমজা",
-      "url": "karamjaup.pabna.gov.bd"
+      "url": "karamjaup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1095",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Kashinathpur",
       "name_bn": "কাশিনাথপুর",
-      "url": "kashinathpurup.pabna.gov.bd"
+      "url": "kashinathpurup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1096",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Gaurigram",
       "name_bn": "গৌরীগ্রাম",
-      "url": "gaurigramup.pabna.gov.bd"
+      "url": "gaurigramup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1097",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Nandanpur",
       "name_bn": "নন্দনপুর",
-      "url": "nandanpurup.pabna.gov.bd"
+      "url": "nandanpurup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1098",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Khetupara",
       "name_bn": "ক্ষেতুপাড়া",
-      "url": "khetuparaup.pabna.gov.bd"
+      "url": "khetuparaup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1099",
     "model": "bangladesh.Union",
-    "upazila": "374",
     "fields": {
       "name": "Ar-Ataikula",
       "name_bn": "আর-আতাইকুলা",
-      "url": "rataiqulaup.pabna.gov.bd"
+      "url": "rataiqulaup.pabna.gov.bd",
+      "upazila": "374"
     }
   },
   {
     "pk": "1100",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Brilahiribari",
       "name_bn": "বৃলাহিড়ীবাড়ী",
-      "url": "brilahiribariup.pabna.gov.bd"
+      "url": "brilahiribariup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1101",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Pungali",
       "name_bn": "পুঙ্গুলি",
-      "url": "pungaliup.pabna.gov.bd"
+      "url": "pungaliup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1102",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Faridpur",
       "name_bn": "ফরিদপুর",
-      "url": "faridpurup.pabna.gov.bd"
+      "url": "faridpurup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1103",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Hadal",
       "name_bn": "হাদল",
-      "url": "hadalup.pabna.gov.bd"
+      "url": "hadalup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1104",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Banwarinagar",
       "name_bn": "বনওয়ারীনগর",
-      "url": "banwarinagarup.pabna.gov.bd"
+      "url": "banwarinagarup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1105",
     "model": "bangladesh.Union",
-    "upazila": "149",
     "fields": {
       "name": "Demra",
       "name_bn": "ডেমড়া",
-      "url": "demraup.pabna.gov.bd"
+      "url": "demraup.pabna.gov.bd",
+      "upazila": "149"
     }
   },
   {
     "pk": "1106",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Birkedar",
       "name_bn": "বীরকেদার",
-      "url": "birkedarup.bogra.gov.bd"
+      "url": "birkedarup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1107",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Kalai",
       "name_bn": "কালাই",
-      "url": "kalaiup.bogra.gov.bd"
+      "url": "kalaiup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1108",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Paikar",
       "name_bn": "পাইকড়",
-      "url": "paikarup.bogra.gov.bd"
+      "url": "paikarup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1109",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Narhatta",
       "name_bn": "নারহট্ট",
-      "url": "narhattaup.bogra.gov.bd"
+      "url": "narhattaup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1110",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Murail",
       "name_bn": "মুরইল",
-      "url": "murailup.bogra.gov.bd"
+      "url": "murailup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1111",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Kahaloo",
       "name_bn": "কাহালু",
-      "url": "kahalooup.bogra.gov.bd"
+      "url": "kahalooup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1112",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Durgapur",
       "name_bn": "দূর্গাপুর",
-      "url": "durgapurup.bogra.gov.bd"
+      "url": "durgapurup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1113",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Jamgaon",
       "name_bn": "জামগ্রাম",
-      "url": "jamgaonup.bogra.gov.bd"
+      "url": "jamgaonup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1114",
     "model": "bangladesh.Union",
-    "upazila": "334",
     "fields": {
       "name": "Malancha",
       "name_bn": "মালঞ্চা",
-      "url": "malanchaup.bogra.gov.bd"
+      "url": "malanchaup.bogra.gov.bd",
+      "upazila": "334"
     }
   },
   {
     "pk": "1115",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Fapore",
       "name_bn": "ফাঁপোর",
-      "url": "faporeup.bogra.gov.bd"
+      "url": "faporeup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1116",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Shabgram",
       "name_bn": "সাবগ্রাম",
-      "url": "shabgramup.bogra.gov.bd"
+      "url": "shabgramup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1117",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Nishindara",
       "name_bn": "নিশিন্দারা",
-      "url": "nishindaraup.bogra.gov.bd"
+      "url": "nishindaraup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1118",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Erulia",
       "name_bn": "এরুলিয়া",
-      "url": "eruliaup.bogra.gov.bd"
+      "url": "eruliaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1119",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Rajapur",
       "name_bn": "রাজাপুর",
-      "url": "rajapurup.bogra.gov.bd"
+      "url": "rajapurup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1120",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Shakharia",
       "name_bn": "শাখারিয়া",
-      "url": "shakhariaup.bogra.gov.bd"
+      "url": "shakhariaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1121",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Sekherkola",
       "name_bn": "শেখেরকোলা",
-      "url": "sekherkolaup.bogra.gov.bd"
+      "url": "sekherkolaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1122",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Gokul",
       "name_bn": "গোকুল",
-      "url": "gokulup.bogra.gov.bd"
+      "url": "gokulup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1123",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Noongola",
       "name_bn": "নুনগোলা",
-      "url": "noongolaup.bogra.gov.bd"
+      "url": "noongolaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1124",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Lahiripara",
       "name_bn": "লাহিড়ীপাড়া",
-      "url": "lahiriparaup.bogra.gov.bd"
+      "url": "lahiriparaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1125",
     "model": "bangladesh.Union",
-    "upazila": "329",
     "fields": {
       "name": "Namuja",
       "name_bn": "নামুজা",
-      "url": "namujaup.bogra.gov.bd"
+      "url": "namujaup.bogra.gov.bd",
+      "upazila": "329"
     }
   },
   {
     "pk": "1126",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Sariakandi Sadar",
       "name_bn": "সারিয়াকান্দি সদর",
-      "url": "sariakandisadarup.bogra.gov.bd"
+      "url": "sariakandisadarup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1127",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Narchi",
       "name_bn": "নারচী",
-      "url": "narchiup.bogra.gov.bd"
+      "url": "narchiup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1128",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Bohail",
       "name_bn": "বোহাইল",
-      "url": "bohailup.bogra.gov.bd"
+      "url": "bohailup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1129",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Chaluabari",
       "name_bn": "চালুয়াবাড়ী",
-      "url": "chaluabariup.bogra.gov.bd"
+      "url": "chaluabariup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1130",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Chandanbaisha",
       "name_bn": "চন্দনবাইশা",
-      "url": "chandanbaishaup.bogra.gov.bd"
+      "url": "chandanbaishaup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1131",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Hatfulbari",
       "name_bn": "হাটফুলবাড়ী",
-      "url": "hatfulbariup.bogra.gov.bd"
+      "url": "hatfulbariup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1132",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Hatsherpur",
       "name_bn": "হাটশেরপুর",
-      "url": "hatsherpurup.bogra.gov.bd"
+      "url": "hatsherpurup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1133",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Karnibari",
       "name_bn": "কর্ণিবাড়ী",
-      "url": "karnibariup.bogra.gov.bd"
+      "url": "karnibariup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1134",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Kazla",
       "name_bn": "কাজলা",
-      "url": "kazlaup.bogra.gov.bd"
+      "url": "kazlaup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1135",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Kutubpur",
       "name_bn": "কুতুবপুর",
-      "url": "kutubpurup.bogra.gov.bd"
+      "url": "kutubpurup.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1136",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Kamalpur",
       "name_bn": "কামালপুর",
-      "url": "kamalpur.bogra.gov.bd"
+      "url": "kamalpur.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1137",
     "model": "bangladesh.Union",
-    "upazila": "337",
     "fields": {
       "name": "Bhelabari",
       "name_bn": "ভেলাবাড়ী",
-      "url": "bhelabari.bogra.gov.bd"
+      "url": "bhelabari.bogra.gov.bd",
+      "upazila": "337"
     }
   },
   {
     "pk": "1138",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Asekpur",
       "name_bn": "আশেকপুর",
-      "url": "asekpurup.bogra.gov.bd"
+      "url": "asekpurup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1139",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Madla",
       "name_bn": "মাদলা",
-      "url": "madlaup.bogra.gov.bd"
+      "url": "madlaup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1140",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Majhira",
       "name_bn": "মাঝিড়া",
-      "url": "majhiraup.bogra.gov.bd"
+      "url": "majhiraup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1141",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Aria",
       "name_bn": "আড়িয়া",
-      "url": "ariaup.bogra.gov.bd"
+      "url": "ariaup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1142",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Kharna",
       "name_bn": "খরনা",
-      "url": "kharnaup.bogra.gov.bd"
+      "url": "kharnaup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1143",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Khottapara",
       "name_bn": "খোট্টাপাড়া",
-      "url": "Khottaparaup.bogra.gov.bd"
+      "url": "Khottaparaup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1144",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Chopinagar",
       "name_bn": "চোপিনগর",
-      "url": "chopinagarup.bogra.gov.bd"
+      "url": "chopinagarup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1145",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Amrul",
       "name_bn": "আমরুল",
-      "url": "amrulup.bogra.gov.bd"
+      "url": "amrulup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1146",
     "model": "bangladesh.Union",
-    "upazila": "336",
     "fields": {
       "name": "Gohail",
       "name_bn": "গোহাইল",
-      "url": "gohailup.bogra.gov.bd"
+      "url": "gohailup.bogra.gov.bd",
+      "upazila": "336"
     }
   },
   {
     "pk": "1147",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Zianagar",
       "name_bn": "জিয়ানগর",
-      "url": "zianagarup.bogra.gov.bd"
+      "url": "zianagarup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1148",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Chamrul",
       "name_bn": "চামরুল",
-      "url": "chamrulup.bogra.gov.bd"
+      "url": "chamrulup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1149",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Dupchanchia",
       "name_bn": "দুপচাঁচিয়া",
-      "url": "dupchanchiaup.bogra.gov.bd"
+      "url": "dupchanchiaup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1150",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Gunahar",
       "name_bn": "গুনাহার",
-      "url": "gunaharup.bogra.gov.bd"
+      "url": "gunaharup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1151",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Gobindapur",
       "name_bn": "গোবিন্দপুর",
-      "url": "gobindapurup.bogra.gov.bd"
+      "url": "gobindapurup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1152",
     "model": "bangladesh.Union",
-    "upazila": "332",
     "fields": {
       "name": "Talora",
       "name_bn": "তালোড়া",
-      "url": "taloraup.bogra.gov.bd"
+      "url": "taloraup.bogra.gov.bd",
+      "upazila": "332"
     }
   },
   {
     "pk": "1153",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Chhatiangram",
       "name_bn": "ছাতিয়ানগ্রাম",
-      "url": "chhatiangramup.bogra.gov.bd"
+      "url": "chhatiangramup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1154",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Nasaratpur",
       "name_bn": "নশরতপুর",
-      "url": "nasaratpurup.bogra.gov.bd"
+      "url": "nasaratpurup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1155",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Adamdighi",
       "name_bn": "আদমদিঘি",
-      "url": "adamdighiup.bogra.gov.bd"
+      "url": "adamdighiup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1156",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Kundagram",
       "name_bn": "কুন্দগ্রাম",
-      "url": "kundagramup.bogra.gov.bd"
+      "url": "kundagramup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1157",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Chapapur",
       "name_bn": "চাঁপাপুর",
-      "url": "chapapurup.bogra.gov.bd"
+      "url": "chapapurup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1158",
     "model": "bangladesh.Union",
-    "upazila": "328",
     "fields": {
       "name": "Shantahar",
       "name_bn": "সান্তাহার",
-      "url": "shantaharup.bogra.gov.bd"
+      "url": "shantaharup.bogra.gov.bd",
+      "upazila": "328"
     }
   },
   {
     "pk": "1159",
     "model": "bangladesh.Union",
-    "upazila": "335",
     "fields": {
       "name": "Burail",
       "name_bn": "বুড়ইল",
-      "url": "burailup.bogra.gov.bd"
+      "url": "burailup.bogra.gov.bd",
+      "upazila": "335"
     }
   },
   {
     "pk": "1160",
     "model": "bangladesh.Union",
-    "upazila": "335",
     "fields": {
       "name": "Nandigram",
       "name_bn": "নন্দিগ্রাম",
-      "url": "nandigramup.bogra.gov.bd"
+      "url": "nandigramup.bogra.gov.bd",
+      "upazila": "335"
     }
   },
   {
     "pk": "1161",
     "model": "bangladesh.Union",
-    "upazila": "335",
     "fields": {
       "name": "Bhatra",
       "name_bn": "ভাটরা",
-      "url": "bhatraup.bogra.gov.bd"
+      "url": "bhatraup.bogra.gov.bd",
+      "upazila": "335"
     }
   },
   {
     "pk": "1162",
     "model": "bangladesh.Union",
-    "upazila": "335",
     "fields": {
       "name": "Thalta Majhgram",
       "name_bn": "থালতা মাঝগ্রাম",
-      "url": "thaltamajhgramup.bogra.gov.bd"
+      "url": "thaltamajhgramup.bogra.gov.bd",
+      "upazila": "335"
     }
   },
   {
     "pk": "1163",
     "model": "bangladesh.Union",
-    "upazila": "335",
     "fields": {
       "name": "Bhatgram",
       "name_bn": "ভাটগ্রাম",
-      "url": "bhatgramup.bogra.gov.bd"
+      "url": "bhatgramup.bogra.gov.bd",
+      "upazila": "335"
     }
   },
   {
     "pk": "1164",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Sonatala",
       "name_bn": "সোনাতলা",
-      "url": "sonatalaup.bogra.gov.bd"
+      "url": "sonatalaup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1165",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Balua",
       "name_bn": "বালুয়া",
-      "url": "baluaup.bogra.gov.bd"
+      "url": "baluaup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1166",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Zorgacha",
       "name_bn": "জোড়গাছা",
-      "url": "zorgachaup.bogra.gov.bd"
+      "url": "zorgachaup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1167",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Digdair",
       "name_bn": "দিগদাইড়",
-      "url": "digdairup.bogra.gov.bd"
+      "url": "digdairup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1168",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Madhupur",
       "name_bn": "মধুপুর",
-      "url": "madhupurup.bogra.gov.bd"
+      "url": "madhupurup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1169",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Pakulla",
       "name_bn": "পাকুল্ল্যা",
-      "url": "pakullaup.bogra.gov.bd"
+      "url": "pakullaup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1170",
     "model": "bangladesh.Union",
-    "upazila": "339",
     "fields": {
       "name": "Tekani Chukinagar",
       "name_bn": "তেকানী চুকাইনগর",
-      "url": "tekanichukinagarup.bogra.gov.bd"
+      "url": "tekanichukinagarup.bogra.gov.bd",
+      "upazila": "339"
     }
   },
   {
     "pk": "1171",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Nimgachi",
       "name_bn": "নিমগাছি",
-      "url": "nimgachiup.bogra.gov.bd"
+      "url": "nimgachiup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1172",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Kalerpara",
       "name_bn": "কালেরপাড়া",
-      "url": "kalerparaup.bogra.gov.bd"
+      "url": "kalerparaup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1173",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Chikashi",
       "name_bn": "চিকাশী",
-      "url": "chikashiup.bogra.gov.bd"
+      "url": "chikashiup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1174",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Gossainbari",
       "name_bn": "গোসাইবাড়ী",
-      "url": "gossainbariup.bogra.gov.bd"
+      "url": "gossainbariup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1175",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Bhandarbari",
       "name_bn": "ভান্ডারবাড়ী",
-      "url": "bhandarbariup.bogra.gov.bd"
+      "url": "bhandarbariup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1176",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Gopalnagar",
       "name_bn": "১গোপালনগর",
-      "url": "gopalnagarup.bogra.gov.bd"
+      "url": "gopalnagarup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1177",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Mothurapur",
       "name_bn": "মথুরাপুর",
-      "url": "mothurapurup.bogra.gov.bd"
+      "url": "mothurapurup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1178",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Chowkibari",
       "name_bn": "চৌকিবাড়ী",
-      "url": "chowkibariup.bogra.gov.bd"
+      "url": "chowkibariup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1179",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Elangi",
       "name_bn": "এলাঙ্গী",
-      "url": "elangiup.bogra.gov.bd"
+      "url": "elangiup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1180",
     "model": "bangladesh.Union",
-    "upazila": "331",
     "fields": {
       "name": "Dhunat Sadar",
       "name_bn": "ধুনট সদর",
-      "url": "dhunatsadarup.bogra.gov.bd"
+      "url": "dhunatsadarup.bogra.gov.bd",
+      "upazila": "331"
     }
   },
   {
     "pk": "1181",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Baliadighi",
       "name_bn": "বালিয়া দিঘী",
-      "url": "baliadighiup.bogra.gov.bd"
+      "url": "baliadighiup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1182",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Dakshinpara",
       "name_bn": "দক্ষিণপাড়া",
-      "url": "dakshinparaup.bogra.gov.bd"
+      "url": "dakshinparaup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1183",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Durgahata",
       "name_bn": "দুর্গাহাটা",
-      "url": "durgahataup.bogra.gov.bd"
+      "url": "durgahataup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1184",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Kagail",
       "name_bn": "কাগইল",
-      "url": "kagailup.bogra.gov.bd"
+      "url": "kagailup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1185",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Sonarai",
       "name_bn": "সোনারায়",
-      "url": "sonaraiup.bogra.gov.bd"
+      "url": "sonaraiup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1186",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Rameshwarpur",
       "name_bn": "রামেশ্বরপুর",
-      "url": "rameshwarpurup.bogra.gov.bd"
+      "url": "rameshwarpurup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1187",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Naruamala",
       "name_bn": "নাড়ুয়ামালা",
-      "url": "naruamalaup.bogra.gov.bd"
+      "url": "naruamalaup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1188",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Nepaltali",
       "name_bn": "নেপালতলী",
-      "url": "nepaltaliup.bogra.gov.bd"
+      "url": "nepaltaliup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1189",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Gabtali",
       "name_bn": "গাবতলি",
-      "url": "gabtaliup.bogra.gov.bd"
+      "url": "gabtaliup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1190",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Mahishaban",
       "name_bn": "মহিষাবান",
-      "url": "mahishabanup.bogra.gov.bd"
+      "url": "mahishabanup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1191",
     "model": "bangladesh.Union",
-    "upazila": "333",
     "fields": {
       "name": "Nasipur",
       "name_bn": "নশিপুর",
-      "url": "nasipurup.bogra.gov.bd"
+      "url": "nasipurup.bogra.gov.bd",
+      "upazila": "333"
     }
   },
   {
     "pk": "1192",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Mirzapur",
       "name_bn": "মির্জাপুর",
-      "url": "mirzapurup.bogra.gov.bd"
+      "url": "mirzapurup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1193",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Khamarkandi",
       "name_bn": "খামারকান্দি",
-      "url": "khamarkandiup.bogra.gov.bd"
+      "url": "khamarkandiup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1194",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Garidaha",
       "name_bn": "গাড়িদহ",
-      "url": "garidahaup.bogra.gov.bd"
+      "url": "garidahaup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1195",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Kusumbi",
       "name_bn": "কুসুম্বী",
-      "url": "kusumbiup.bogra.gov.bd"
+      "url": "kusumbiup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1196",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Bishalpur",
       "name_bn": "বিশালপুর",
-      "url": "bishalpurup.bogra.gov.bd"
+      "url": "bishalpurup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1197",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Shimabari",
       "name_bn": "সীমাবাড়ি",
-      "url": "shimabariup.bogra.gov.bd"
+      "url": "shimabariup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1198",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Shahbondegi",
       "name_bn": "শাহবন্দেগী",
-      "url": "shahbondegiup.bogra.gov.bd"
+      "url": "shahbondegiup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1199",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Sughat",
       "name_bn": "সুঘাট",
-      "url": "sughatup.bogra.gov.bd"
+      "url": "sughatup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1200",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Khanpur",
       "name_bn": "খানপুর",
-      "url": "khanpurup.bogra.gov.bd"
+      "url": "khanpurup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1201",
     "model": "bangladesh.Union",
-    "upazila": "255",
     "fields": {
       "name": "Bhabanipur",
       "name_bn": "ভবানীপুর",
-      "url": "bhabanipurup.bogra.gov.bd"
+      "url": "bhabanipurup.bogra.gov.bd",
+      "upazila": "255"
     }
   },
   {
     "pk": "1202",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Moidanhatta",
       "name_bn": "ময়দানহাট্টা",
-      "url": "moidanhattaup.bogra.gov.bd"
+      "url": "moidanhattaup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1203",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Kichok",
       "name_bn": "কিচক",
-      "url": "kichokup.bogra.gov.bd"
+      "url": "kichokup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1204",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Atmul",
       "name_bn": "আটমূল",
-      "url": "atmulup.bogra.gov.bd"
+      "url": "atmulup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1205",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Pirob",
       "name_bn": "পিরব",
-      "url": "pirobup.bogra.gov.bd"
+      "url": "pirobup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1206",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Majhihatta",
       "name_bn": "মাঝিহট্ট",
-      "url": "majhihattaup.bogra.gov.bd"
+      "url": "majhihattaup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1207",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Buriganj",
       "name_bn": "বুড়িগঞ্জ",
-      "url": "buriganjup.bogra.gov.bd"
+      "url": "buriganjup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1208",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Bihar",
       "name_bn": "বিহার",
-      "url": "biharup.bogra.gov.bd"
+      "url": "biharup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1209",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Shibganj",
       "name_bn": "শিবগঞ্জ",
-      "url": "shibganjup.bogra.gov.bd"
+      "url": "shibganjup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1210",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Deuly",
       "name_bn": "দেউলি",
-      "url": "deulyup.bogra.gov.bd"
+      "url": "deulyup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1211",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Sayedpur",
       "name_bn": "সৈয়দপুর",
-      "url": "sayedpurup.bogra.gov.bd"
+      "url": "sayedpurup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1212",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Mokamtala",
       "name_bn": "মোকামতলা",
-      "url": "mokamtalaup.bogra.gov.bd"
+      "url": "mokamtalaup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1213",
     "model": "bangladesh.Union",
-    "upazila": "338",
     "fields": {
       "name": "Raynagar",
       "name_bn": "রায়নগর",
-      "url": "raynagarup.bogra.gov.bd"
+      "url": "raynagarup.bogra.gov.bd",
+      "upazila": "338"
     }
   },
   {
     "pk": "1214",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Darsanpara",
       "name_bn": "দর্শনপাড়া",
-      "url": "darsanparaup.rajshahi.gov.bd"
+      "url": "darsanparaup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1215",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Hujuripara",
       "name_bn": "হুজুরী পাড়া",
-      "url": "hujuriparaup.rajshahi.gov.bd"
+      "url": "hujuriparaup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1216",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Damkura",
       "name_bn": "দামকুড়া",
-      "url": "damkuraup.rajshahi.gov.bd"
+      "url": "damkuraup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1217",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Horipur",
       "name_bn": "হরিপুর",
-      "url": "horipurup.rajshahi.gov.bd"
+      "url": "horipurup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1218",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Horogram",
       "name_bn": "হড়গ্রাম",
-      "url": "horogramup.rajshahi.gov.bd"
+      "url": "horogramup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1219",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Harian",
       "name_bn": "হরিয়ান",
-      "url": "harianup.rajshahi.gov.bd"
+      "url": "harianup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1220",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Borgachi",
       "name_bn": "বড়্গাছি",
-      "url": "borgachiup.rajshahi.gov.bd"
+      "url": "borgachiup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1221",
     "model": "bangladesh.Union",
-    "upazila": "382",
     "fields": {
       "name": "Parila",
       "name_bn": "পারিলা",
-      "url": "parilaup.rajshahi.gov.bd"
+      "url": "parilaup.rajshahi.gov.bd",
+      "upazila": "382"
     }
   },
   {
     "pk": "1222",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Naopara",
       "name_bn": "নওপাড়া",
-      "url": "naoparaup.rajshahi.gov.bd"
+      "url": "naoparaup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1223",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Kismatgankoir",
       "name_bn": "কিসমতগণকৈড়",
-      "url": "kismatgankoirup.rajshahi.gov.bd"
+      "url": "kismatgankoirup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1224",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Pananagar",
       "name_bn": "পানানগর",
-      "url": "pananagarup.rajshahi.gov.bd"
+      "url": "pananagarup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1225",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Deluabari",
       "name_bn": "দেলুয়াবাড়ী",
-      "url": "deluabariup.rajshahi.gov.bd"
+      "url": "deluabariup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1226",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Jhaluka",
       "name_bn": "ঝালুকা",
-      "url": "jhalukaup.rajshahi.gov.bd"
+      "url": "jhalukaup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1227",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Maria",
       "name_bn": "মাড়িয়া",
-      "url": "mariaup.rajshahi.gov.bd"
+      "url": "mariaup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1228",
     "model": "bangladesh.Union",
-    "upazila": "234",
     "fields": {
       "name": "Joynogor",
       "name_bn": "জয়নগর",
-      "url": "joynogorup.rajshahi.gov.bd"
+      "url": "joynogorup.rajshahi.gov.bd",
+      "upazila": "234"
     }
   },
   {
     "pk": "1229",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Dhuroil",
       "name_bn": "ধুরইল",
-      "url": "dhuroilup.rajshahi.gov.bd"
+      "url": "dhuroilup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1230",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Ghasigram",
       "name_bn": "ঘষিগ্রাম",
-      "url": "ghasigramup.rajshahi.gov.bd"
+      "url": "ghasigramup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1231",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Raighati",
       "name_bn": "রায়ঘাটি",
-      "url": "raighatiup.rajshahi.gov.bd"
+      "url": "raighatiup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1232",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Mougachi",
       "name_bn": "মৌগাছি",
-      "url": "mougachiup.rajshahi.gov.bd"
+      "url": "mougachiup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1233",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Baksimoil",
       "name_bn": "বাকশিমইল",
-      "url": "baksimoilup.rajshahi.gov.bd"
+      "url": "baksimoilup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1234",
     "model": "bangladesh.Union",
-    "upazila": "381",
     "fields": {
       "name": "Jahanabad",
       "name_bn": "জাহানাবাদ",
-      "url": "jahanabadup.rajshahi.gov.bd"
+      "url": "jahanabadup.rajshahi.gov.bd",
+      "upazila": "381"
     }
   },
   {
     "pk": "1235",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Yousufpur",
       "name_bn": "ইউসুফপুর",
-      "url": "yousufpurup.rajshahi.gov.bd"
+      "url": "yousufpurup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1236",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Solua",
       "name_bn": "শলুয়া",
-      "url": "soluaup.rajshahi.gov.bd"
+      "url": "soluaup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1237",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Sardah",
       "name_bn": "সরদহ",
-      "url": "sardahup.rajshahi.gov.bd"
+      "url": "sardahup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1238",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Nimpara",
       "name_bn": "নিমপাড়া",
-      "url": "nimparaup.rajshahi.gov.bd"
+      "url": "nimparaup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1239",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Charghat",
       "name_bn": "চারঘাট",
-      "url": "charghatup.rajshahi.gov.bd"
+      "url": "charghatup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1240",
     "model": "bangladesh.Union",
-    "upazila": "378",
     "fields": {
       "name": "Vialuxmipur",
       "name_bn": "ভায়ালক্ষ্মীপুর",
-      "url": "vialuxmipurup.rajshahi.gov.bd"
+      "url": "vialuxmipurup.rajshahi.gov.bd",
+      "upazila": "378"
     }
   },
   {
     "pk": "1241",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Puthia",
       "name_bn": "পুঠিয়া",
-      "url": "puthiaup.rajshahi.gov.bd"
+      "url": "puthiaup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1242",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Belpukuria",
       "name_bn": "বেলপুকুরিয়া",
-      "url": "belpukuriaup.rajshahi.gov.bd"
+      "url": "belpukuriaup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1243",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Baneswar",
       "name_bn": "বানেশ্বর",
-      "url": "baneswarup.rajshahi.gov.bd"
+      "url": "baneswarup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1244",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Valukgachi",
       "name_bn": "ভালুক গাছি",
-      "url": "valukgachiup.rajshahi.gov.bd"
+      "url": "valukgachiup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1245",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Shilmaria",
       "name_bn": "শিলমাড়িয়া",
-      "url": "shilmariaup.rajshahi.gov.bd"
+      "url": "shilmariaup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1246",
     "model": "bangladesh.Union",
-    "upazila": "383",
     "fields": {
       "name": "Jewpara",
       "name_bn": "জিউপাড়া",
-      "url": "jewparaup.rajshahi.gov.bd"
+      "url": "jewparaup.rajshahi.gov.bd",
+      "upazila": "383"
     }
   },
   {
     "pk": "1247",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Bajubagha",
       "name_bn": "বাজুবাঘা",
-      "url": "bajubaghaup.rajshahi.gov.bd"
+      "url": "bajubaghaup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1248",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Gorgori",
       "name_bn": "গড়গড়ি",
-      "url": "gorgoriup.rajshahi.gov.bd"
+      "url": "gorgoriup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1249",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Pakuria",
       "name_bn": "পাকুড়িয়া",
-      "url": "pakuriaup.rajshahi.gov.bd"
+      "url": "pakuriaup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1250",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Monigram",
       "name_bn": "মনিগ্রাম",
-      "url": "monigramup.rajshahi.gov.bd"
+      "url": "monigramup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1251",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Bausa",
       "name_bn": "বাউসা",
-      "url": "bausaup.rajshahi.gov.bd"
+      "url": "bausaup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1252",
     "model": "bangladesh.Union",
-    "upazila": "376",
     "fields": {
       "name": "Arani",
       "name_bn": "আড়ানী",
-      "url": "araniup.rajshahi.gov.bd"
+      "url": "araniup.rajshahi.gov.bd",
+      "upazila": "376"
     }
   },
   {
     "pk": "1253",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Godagari",
       "name_bn": "গোদাগাড়ী",
-      "url": "godagariup.rajshahi.gov.bd"
+      "url": "godagariup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1254",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Mohonpur",
       "name_bn": "মোহনপুর",
-      "url": "mohonpurup.rajshahi.gov.bd"
+      "url": "mohonpurup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1255",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Pakri",
       "name_bn": "পাকড়ী",
-      "url": "pakriup.rajshahi.gov.bd"
+      "url": "pakriup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1256",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Risikul",
       "name_bn": "রিশিকুল",
-      "url": "risikulup.rajshahi.gov.bd"
+      "url": "risikulup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1257",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Gogram",
       "name_bn": "গোগ্রাম",
-      "url": "gogramup.rajshahi.gov.bd"
+      "url": "gogramup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1258",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Matikata",
       "name_bn": "মাটিকাটা",
-      "url": "matikataup.rajshahi.gov.bd"
+      "url": "matikataup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1259",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Dewpara",
       "name_bn": "দেওপাড়া",
-      "url": "dewparaup.rajshahi.gov.bd"
+      "url": "dewparaup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1260",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Basudebpur",
       "name_bn": "বাসুদেবপুর",
-      "url": "basudebpurup.rajshahi.gov.bd"
+      "url": "basudebpurup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1261",
     "model": "bangladesh.Union",
-    "upazila": "380",
     "fields": {
       "name": "Asariadaha",
       "name_bn": "আষাড়িয়াদহ",
-      "url": "asariadahaup.rajshahi.gov.bd"
+      "url": "asariadahaup.rajshahi.gov.bd",
+      "upazila": "380"
     }
   },
   {
     "pk": "1262",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Kalma",
       "name_bn": "কলমা",
-      "url": "kalmaup.rajshahi.gov.bd"
+      "url": "kalmaup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1263",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Badhair",
       "name_bn": "বাধাইড়",
-      "url": "badhairup.rajshahi.gov.bd"
+      "url": "badhairup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1264",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Panchandar",
       "name_bn": "পাঁচন্দর",
-      "url": "panchandarup.rajshahi.gov.bd"
+      "url": "panchandarup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1265",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Saranjai",
       "name_bn": "সরঞ্জাই",
-      "url": "saranjaiup.rajshahi.gov.bd"
+      "url": "saranjaiup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1266",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Talondo",
       "name_bn": "তালন্দ",
-      "url": "talondoup.rajshahi.gov.bd"
+      "url": "talondoup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1267",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Kamargaon",
       "name_bn": "কামারগাঁ",
-      "url": "kamargaonup.rajshahi.gov.bd"
+      "url": "kamargaonup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1268",
     "model": "bangladesh.Union",
-    "upazila": "384",
     "fields": {
       "name": "Chanduria",
       "name_bn": "চান্দুড়িয়া",
-      "url": "chanduriaup.rajshahi.gov.bd"
+      "url": "chanduriaup.rajshahi.gov.bd",
+      "upazila": "384"
     }
   },
   {
     "pk": "1269",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Gobindopara",
       "name_bn": "গোবিন্দপাড়া",
-      "url": "gobindoparaup.rajshahi.gov.bd"
+      "url": "gobindoparaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1270",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Nordas",
       "name_bn": "নরদাস",
-      "url": "nordasup.rajshahi.gov.bd"
+      "url": "nordasup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1271",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Dippur",
       "name_bn": "দ্বীপপুর",
-      "url": "dippurup.rajshahi.gov.bd"
+      "url": "dippurup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1272",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Borobihanoli",
       "name_bn": "বড়বিহানলী",
-      "url": "borobihanoliup.rajshahi.gov.bd"
+      "url": "borobihanoliup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1273",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Auchpara",
       "name_bn": "আউচপাড়া",
-      "url": "auchparaup.rajshahi.gov.bd"
+      "url": "auchparaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1274",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Sreepur",
       "name_bn": "শ্রীপুর",
-      "url": "sreepurup.rajshahi.gov.bd"
+      "url": "sreepurup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1275",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Basupara",
       "name_bn": "বাসুপাড়া",
-      "url": "basuparaup.rajshahi.gov.bd"
+      "url": "basuparaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1276",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Kacharikoalipara",
       "name_bn": "কাচাড়ী কোয়লিপাড়া",
-      "url": "kacharikoaliparaup.rajshahi.gov.bd"
+      "url": "kacharikoaliparaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1277",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Suvodanga",
       "name_bn": "শুভডাঙ্গা",
-      "url": "suvodangaup.rajshahi.gov.bd"
+      "url": "suvodangaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1278",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Mariaup",
       "name_bn": "মাড়িয়া",
-      "url": "mariaup10.rajshahi.gov.bd"
+      "url": "mariaup10.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1279",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Ganipur",
       "name_bn": "গণিপুর",
-      "url": "ganipurup.rajshahi.gov.bd"
+      "url": "ganipurup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1280",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Zhikara",
       "name_bn": "ঝিকড়া",
-      "url": "zhikaraup.rajshahi.gov.bd"
+      "url": "zhikaraup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1281",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Gualkandi",
       "name_bn": "গোয়ালকান্দি",
-      "url": "gualkandiup.rajshahi.gov.bd"
+      "url": "gualkandiup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1282",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Hamirkutsa",
       "name_bn": "হামিরকুৎসা",
-      "url": "hamirkutsaup.rajshahi.gov.bd"
+      "url": "hamirkutsaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1283",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Jogipara",
       "name_bn": "যোগিপাড়া",
-      "url": "jogiparaup.rajshahi.gov.bd"
+      "url": "jogiparaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1284",
     "model": "bangladesh.Union",
-    "upazila": "377",
     "fields": {
       "name": "Sonadanga",
       "name_bn": "সোনাডাঙ্গা",
-      "url": "sonadangaup.rajshahi.gov.bd"
+      "url": "sonadangaup.rajshahi.gov.bd",
+      "upazila": "377"
     }
   },
   {
     "pk": "1285",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Brahmapur",
       "name_bn": "ব্রহ্মপুর",
-      "url": "brahmapurup.natore.gov.bd"
+      "url": "brahmapurup.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1286",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Madhnagar",
       "name_bn": "মাধনগর",
-      "url": "madhnagar.natore.gov.bd"
+      "url": "madhnagar.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1287",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Khajura",
       "name_bn": "খাজুরা",
-      "url": "khajura.bdgovportal.com"
+      "url": "khajura.bdgovportal.com",
+      "upazila": "356"
     }
   },
   {
     "pk": "1288",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Piprul",
       "name_bn": "পিপরুল",
-      "url": "piprulup.natore.gov.bd"
+      "url": "piprulup.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1289",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Biprobelghoria",
       "name_bn": "বিপ্রবেলঘড়িয়া",
-      "url": "biprobelghoria.bdgovportal.com"
+      "url": "biprobelghoria.bdgovportal.com",
+      "upazila": "356"
     }
   },
   {
     "pk": "1290",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Chhatni",
       "name_bn": "ছাতনী",
-      "url": "chhatni.bdgovportal.com"
+      "url": "chhatni.bdgovportal.com",
+      "upazila": "356"
     }
   },
   {
     "pk": "1291",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Tebaria",
       "name_bn": "তেবাড়িয়া",
-      "url": "tebariaup.natore.gov.bd"
+      "url": "tebariaup.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1292",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Dighapatia",
       "name_bn": "দিঘাপতিয়া",
-      "url": "dighapatiaup.natore.gov.bd"
+      "url": "dighapatiaup.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1293",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Luxmipurkholabaria",
       "name_bn": "লক্ষীপুর খোলাবাড়িয়া",
-      "url": "luxmipurkholabariaup.natore.gov.bd"
+      "url": "luxmipurkholabariaup.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1294",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Barahorispur",
       "name_bn": "বড়হরিশপুর",
-      "url": "barahorispur.bdgovportal.com"
+      "url": "barahorispur.bdgovportal.com",
+      "upazila": "356"
     }
   },
   {
     "pk": "1295",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Kaphuria",
       "name_bn": "কাফুরিয়া",
-      "url": "kaphuria.bdgovportal.com"
+      "url": "kaphuria.bdgovportal.com",
+      "upazila": "356"
     }
   },
   {
     "pk": "1296",
     "model": "bangladesh.Union",
-    "upazila": "356",
     "fields": {
       "name": "Halsa",
       "name_bn": "হালসা",
-      "url": "halsa.natore.gov.bd"
+      "url": "halsa.natore.gov.bd",
+      "upazila": "356"
     }
   },
   {
     "pk": "1297",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Sukash",
       "name_bn": "শুকাশ",
-      "url": "sukashup.natore.gov.bd"
+      "url": "sukashup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1298",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Dahia",
       "name_bn": "ডাহিয়া",
-      "url": "dahiaup.natore.gov.bd"
+      "url": "dahiaup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1299",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Italy",
       "name_bn": "ইটালী",
-      "url": "italyup.natore.gov.bd"
+      "url": "italyup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1300",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Kalam",
       "name_bn": "কলম",
-      "url": "kalamup.natore.gov.bd"
+      "url": "kalamup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1301",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Chamari",
       "name_bn": "চামারী",
-      "url": "chamariup.natore.gov.bd"
+      "url": "chamariup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1302",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Hatiandaha",
       "name_bn": "হাতিয়ানদহ",
-      "url": "hatiandahaup.natore.gov.bd"
+      "url": "hatiandahaup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1303",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Lalore",
       "name_bn": "লালোর",
-      "url": "laloreup.natore.gov.bd"
+      "url": "laloreup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1304",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Sherkole",
       "name_bn": "শেরকোল",
-      "url": "sherkoleup.natore.gov.bd"
+      "url": "sherkoleup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1305",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Tajpur",
       "name_bn": "তাজপুর",
-      "url": "tajpurup.natore.gov.bd"
+      "url": "tajpurup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1306",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Chaugram",
       "name_bn": "চৌগ্রাম",
-      "url": "chaugramup.natore.gov.bd"
+      "url": "chaugramup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1307",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Chhatardighi",
       "name_bn": "ছাতারদিঘী",
-      "url": "chhatardighiup.natore.gov.bd"
+      "url": "chhatardighiup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1308",
     "model": "bangladesh.Union",
-    "upazila": "501",
     "fields": {
       "name": "Ramanandakhajura",
       "name_bn": "রামান্দখাজুরা",
-      "url": "ramanandakhajuraup.natore.gov.bd"
+      "url": "ramanandakhajuraup.natore.gov.bd",
+      "upazila": "501"
     }
   },
   {
     "pk": "1309",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Joari",
       "name_bn": "জোয়াড়ী",
-      "url": "joariup.natore.gov.bd"
+      "url": "joariup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1310",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Baraigram",
       "name_bn": "বড়াইগ্রাম",
-      "url": "baraigramup.natore.gov.bd"
+      "url": "baraigramup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1311",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Zonail",
       "name_bn": "জোনাইল",
-      "url": "zonailup.natore.gov.bd"
+      "url": "zonailup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1312",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Nagor",
       "name_bn": "নগর",
-      "url": "nagorup.natore.gov.bd"
+      "url": "nagorup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1313",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Majgoan",
       "name_bn": "মাঝগাও",
-      "url": "majgoanup.natore.gov.bd"
+      "url": "majgoanup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1314",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Gopalpur",
       "name_bn": "গোপালপুর",
-      "url": "gopalpurup.natore.gov.bd"
+      "url": "gopalpurup.natore.gov.bd",
+      "upazila": "357"
     }
   },
   {
     "pk": "1315",
     "model": "bangladesh.Union",
-    "upazila": "357",
     "fields": {
       "name": "Chandai",
       "name_bn": "চান্দাই",
-      "url": "chandai.bdgovportal.com"
+      "url": "chandai.bdgovportal.com",
+      "upazila": "357"
     }
   },
   {
     "pk": "1316",
     "model": "bangladesh.Union",
-    "upazila": "358",
     "fields": {
       "name": "Panka",
       "name_bn": "পাঁকা",
-      "url": "pankaup.natore.gov.bd"
+      "url": "pankaup.natore.gov.bd",
+      "upazila": "358"
     }
   },
   {
     "pk": "1317",
     "model": "bangladesh.Union",
-    "upazila": "358",
     "fields": {
       "name": "Jamnagor",
       "name_bn": "জামনগর",
-      "url": "jamnagorup.natore.gov.bd"
+      "url": "jamnagorup.natore.gov.bd",
+      "upazila": "358"
     }
   },
   {
     "pk": "1318",
     "model": "bangladesh.Union",
-    "upazila": "358",
     "fields": {
       "name": "Bagatipara",
       "name_bn": "বাগাতিপাড়া",
-      "url": "bagatiparaup.natore.gov.bd"
+      "url": "bagatiparaup.natore.gov.bd",
+      "upazila": "358"
     }
   },
   {
     "pk": "1319",
     "model": "bangladesh.Union",
-    "upazila": "358",
     "fields": {
       "name": "Dayarampur",
       "name_bn": "দয়ারামপুর",
-      "url": "dayarampurup.natore.gov.bd"
+      "url": "dayarampurup.natore.gov.bd",
+      "upazila": "358"
     }
   },
   {
     "pk": "1320",
     "model": "bangladesh.Union",
-    "upazila": "358",
     "fields": {
       "name": "Faguardiar",
       "name_bn": "ফাগুয়ারদিয়াড়",
-      "url": "faguardiarup.natore.gov.bd"
+      "url": "faguardiarup.natore.gov.bd",
+      "upazila": "358"
     }
   },
   {
     "pk": "1321",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Lalpur",
       "name_bn": "লালপুর",
-      "url": "lalpurup.natore.gov.bd"
+      "url": "lalpurup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1322",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Iswardi",
       "name_bn": "ঈশ্বরদী",
-      "url": "iswardiup.natore.gov.bd"
+      "url": "iswardiup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1323",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Chongdhupoil",
       "name_bn": "চংধুপইল",
-      "url": "chongdhupoilup.natore.gov.bd"
+      "url": "chongdhupoilup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1324",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Arbab",
       "name_bn": "আড়বাব",
-      "url": "arbabup.natore.gov.bd"
+      "url": "arbabup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1325",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Bilmaria",
       "name_bn": "বিলমাড়িয়া",
-      "url": "bilmariaup.natore.gov.bd"
+      "url": "bilmariaup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1326",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Duaria",
       "name_bn": "দুয়ারিয়া",
-      "url": "duariaup.natore.gov.bd"
+      "url": "duariaup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1327",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Oalia",
       "name_bn": "ওয়ালিয়া",
-      "url": "oaliaup.natore.gov.bd"
+      "url": "oaliaup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1328",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Durduria",
       "name_bn": "দুড়দুরিয়া",
-      "url": "durduriaup.natore.gov.bd"
+      "url": "durduriaup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1329",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Arjunpur",
       "name_bn": "অর্জুনপুর বরমহাটী",
-      "url": "arjunpurup.natore.gov.bd"
+      "url": "arjunpurup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1330",
     "model": "bangladesh.Union",
-    "upazila": "359",
     "fields": {
       "name": "Kadimchilan",
       "name_bn": "কদিমচিলান",
-      "url": "kadimchilanup.natore.gov.bd"
+      "url": "kadimchilanup.natore.gov.bd",
+      "upazila": "359"
     }
   },
   {
     "pk": "1331",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Nazirpur",
       "name_bn": "নাজিরপুর",
-      "url": "nazirpurup.natore.gov.bd"
+      "url": "nazirpurup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1332",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Biaghat",
       "name_bn": "বিয়াঘাট",
-      "url": "biaghatup.natore.gov.bd"
+      "url": "biaghatup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1333",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Khubjipur",
       "name_bn": "খুবজীপুর",
-      "url": "khubjipurup.natore.gov.bd"
+      "url": "khubjipurup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1334",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Dharabarisha",
       "name_bn": "ধারাবারিষা",
-      "url": "dharabarishaup.natore.gov.bd"
+      "url": "dharabarishaup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1335",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Moshindha",
       "name_bn": "মসিন্দা",
-      "url": "moshindhaup.natore.gov.bd"
+      "url": "moshindhaup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1336",
     "model": "bangladesh.Union",
-    "upazila": "361",
     "fields": {
       "name": "Chapila",
       "name_bn": "চাপিলা",
-      "url": "chapilaup.natore.gov.bd"
+      "url": "chapilaup.natore.gov.bd",
+      "upazila": "361"
     }
   },
   {
     "pk": "1337",
     "model": "bangladesh.Union",
-    "upazila": "341",
     "fields": {
       "name": "Rukindipur",
       "name_bn": "রুকিন্দীপুর",
-      "url": "rukindipurup.joypurhat.gov.bd"
+      "url": "rukindipurup.joypurhat.gov.bd",
+      "upazila": "341"
     }
   },
   {
     "pk": "1338",
     "model": "bangladesh.Union",
-    "upazila": "341",
     "fields": {
       "name": "Sonamukhi",
       "name_bn": "সোনামূখী",
-      "url": "sonamukhiup.joypurhat.gov.bd"
+      "url": "sonamukhiup.joypurhat.gov.bd",
+      "upazila": "341"
     }
   },
   {
     "pk": "1339",
     "model": "bangladesh.Union",
-    "upazila": "341",
     "fields": {
       "name": "Tilakpur",
       "name_bn": "তিলকপুর",
-      "url": "tilakpurup.joypurhat.gov.bd"
+      "url": "tilakpurup.joypurhat.gov.bd",
+      "upazila": "341"
     }
   },
   {
     "pk": "1340",
     "model": "bangladesh.Union",
-    "upazila": "341",
     "fields": {
       "name": "Raikali",
       "name_bn": "রায়কালী",
-      "url": "raikaliup.joypurhat.gov.bd"
+      "url": "raikaliup.joypurhat.gov.bd",
+      "upazila": "341"
     }
   },
   {
     "pk": "1341",
     "model": "bangladesh.Union",
-    "upazila": "341",
     "fields": {
       "name": "Gopinathpur",
       "name_bn": "গোপীনাথপুর",
-      "url": "gopinathpurup.joypurhat.gov.bd"
+      "url": "gopinathpurup.joypurhat.gov.bd",
+      "upazila": "341"
     }
   },
   {
     "pk": "1342",
     "model": "bangladesh.Union",
-    "upazila": "342",
     "fields": {
       "name": "Matrai",
       "name_bn": "মাত্রাই",
-      "url": "matraiup.joypurhat.gov.bd"
+      "url": "matraiup.joypurhat.gov.bd",
+      "upazila": "342"
     }
   },
   {
     "pk": "1343",
     "model": "bangladesh.Union",
-    "upazila": "342",
     "fields": {
       "name": "Ahammedabad",
       "name_bn": "আহম্মেদাবাদ",
-      "url": "ahammedabadup.joypurhat.gov.bd"
+      "url": "ahammedabadup.joypurhat.gov.bd",
+      "upazila": "342"
     }
   },
   {
     "pk": "1344",
     "model": "bangladesh.Union",
-    "upazila": "342",
     "fields": {
       "name": "Punot",
       "name_bn": "পুনট",
-      "url": "punotup.joypurhat.gov.bd"
+      "url": "punotup.joypurhat.gov.bd",
+      "upazila": "342"
     }
   },
   {
     "pk": "1345",
     "model": "bangladesh.Union",
-    "upazila": "342",
     "fields": {
       "name": "Zindarpur",
       "name_bn": "জিন্দারপুর",
-      "url": "zindarpurup.joypurhat.gov.bd"
+      "url": "zindarpurup.joypurhat.gov.bd",
+      "upazila": "342"
     }
   },
   {
     "pk": "1346",
     "model": "bangladesh.Union",
-    "upazila": "342",
     "fields": {
       "name": "Udaipur",
       "name_bn": "উদয়পুর",
-      "url": "udaipurup.joypurhat.gov.bd"
+      "url": "udaipurup.joypurhat.gov.bd",
+      "upazila": "342"
     }
   },
   {
     "pk": "1347",
     "model": "bangladesh.Union",
-    "upazila": "343",
     "fields": {
       "name": "Alampur",
       "name_bn": "আলমপুর",
-      "url": "alampurup.joypurhat.gov.bd"
+      "url": "alampurup.joypurhat.gov.bd",
+      "upazila": "343"
     }
   },
   {
     "pk": "1348",
     "model": "bangladesh.Union",
-    "upazila": "343",
     "fields": {
       "name": "Borail",
       "name_bn": "বড়াইল",
-      "url": "borailup.joypurhat.gov.bd"
+      "url": "borailup.joypurhat.gov.bd",
+      "upazila": "343"
     }
   },
   {
     "pk": "1349",
     "model": "bangladesh.Union",
-    "upazila": "343",
     "fields": {
       "name": "Tulshiganga",
       "name_bn": " তুলশীগংগা",
-      "url": "tulshigangaup.joypurhat.gov.bd"
+      "url": "tulshigangaup.joypurhat.gov.bd",
+      "upazila": "343"
     }
   },
   {
     "pk": "1350",
     "model": "bangladesh.Union",
-    "upazila": "343",
     "fields": {
       "name": "Mamudpur",
       "name_bn": "মামুদপুর",
-      "url": "mamudpurup.joypurhat.gov.bd"
+      "url": "mamudpurup.joypurhat.gov.bd",
+      "upazila": "343"
     }
   },
   {
     "pk": "1351",
     "model": "bangladesh.Union",
-    "upazila": "343",
     "fields": {
       "name": "Boratara",
       "name_bn": "বড়তারা",
-      "url": "borataraup.joypurhat.gov.bd"
+      "url": "borataraup.joypurhat.gov.bd",
+      "upazila": "343"
     }
   },
   {
     "pk": "1352",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Bagjana",
       "name_bn": "বাগজানা",
-      "url": "bagjanaup.joypurhat.gov.bd"
+      "url": "bagjanaup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1353",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Dharanji",
       "name_bn": "ধরঞ্জি",
-      "url": "dharanjiup.joypurhat.gov.bd"
+      "url": "dharanjiup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1354",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Aymarasulpur",
       "name_bn": "আয়মারসুলপুর",
-      "url": "aymarasulpurup.joypurhat.gov.bd"
+      "url": "aymarasulpurup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1355",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Balighata",
       "name_bn": "বালিঘাটা",
-      "url": "balighataup.joypurhat.gov.bd"
+      "url": "balighataup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1356",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Atapur",
       "name_bn": "আটাপুর",
-      "url": "atapurup.joypurhat.gov.bd"
+      "url": "atapurup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1357",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Mohammadpur",
       "name_bn": "মোহাম্মদপুর",
-      "url": "mohammadpurup.joypurhat.gov.bd"
+      "url": "mohammadpurup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1358",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Aolai",
       "name_bn": "আওলাই",
-      "url": "aolaiup.joypurhat.gov.bd"
+      "url": "aolaiup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1359",
     "model": "bangladesh.Union",
-    "upazila": "344",
     "fields": {
       "name": "Kusumba",
       "name_bn": "কুসুম্বা",
-      "url": "kusumbaup.joypurhat.gov.bd"
+      "url": "kusumbaup.joypurhat.gov.bd",
+      "upazila": "344"
     }
   },
   {
     "pk": "1360",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Amdai",
       "name_bn": "আমদই",
-      "url": "amdaiup.joypurhat.gov.bd"
+      "url": "amdaiup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1361",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Bamb",
       "name_bn": "বম্বু",
-      "url": "bambuup.joypurhat.gov.bd"
+      "url": "bambuup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1362",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Dogachi",
       "name_bn": "দোগাছি",
-      "url": "dogachiup.joypurhat.gov.bd"
+      "url": "dogachiup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1363",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Puranapail",
       "name_bn": "পুরানাপৈল",
-      "url": "puranapailup.joypurhat.gov.bd"
+      "url": "puranapailup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1364",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Jamalpur",
       "name_bn": "জামালপুর",
-      "url": "jamalpurup.joypurhat.gov.bd"
+      "url": "jamalpurup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1365",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Chakborkat",
       "name_bn": "চকবরকত",
-      "url": "chakborkatup.joypurhat.gov.bd"
+      "url": "chakborkatup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1366",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Mohammadabad",
       "name_bn": "মোহাম্মদাবাদ",
-      "url": "mohammadabadup.joypurhat.gov.bd"
+      "url": "mohammadabadup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1367",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Dhalahar",
       "name_bn": "ধলাহার",
-      "url": "dhalaharup.joypurhat.gov.bd"
+      "url": "dhalaharup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1368",
     "model": "bangladesh.Union",
-    "upazila": "340",
     "fields": {
       "name": "Bhadsha",
       "name_bn": "ভাদসা",
-      "url": "bhadshaup.joypurhat.gov.bd"
+      "url": "bhadshaup.joypurhat.gov.bd",
+      "upazila": "340"
     }
   },
   {
     "pk": "1369",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Alatuli",
       "name_bn": "আলাতুলী",
-      "url": "alatuliup.chapainawabganj.gov.bd"
+      "url": "alatuliup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1370",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Baroghoria",
       "name_bn": "বারঘরিয়া",
-      "url": "baroghoriaup.chapainawabganj.gov.bd"
+      "url": "baroghoriaup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1371",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Moharajpur",
       "name_bn": "মহারাজপুর",
-      "url": "moharajpurup.chapainawabganj.gov.bd"
+      "url": "moharajpurup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1372",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Ranihati",
       "name_bn": "রানীহাটি",
-      "url": "ranihatiup.chapainawabganj.gov.bd"
+      "url": "ranihatiup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1373",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Baliadanga",
       "name_bn": "বালিয়াডাঙ্গা",
-      "url": "baliadangaup.chapainawabganj.gov.bd"
+      "url": "baliadangaup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1374",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Gobratola",
       "name_bn": "গোবরাতলা",
-      "url": "gobratolaup.chapainawabganj.gov.bd"
+      "url": "gobratolaup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1375",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Jhilim",
       "name_bn": "ঝিলিম",
-      "url": "jhilimup.chapainawabganj.gov.bd"
+      "url": "jhilimup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1376",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Char Anupnagar",
       "name_bn": "চর অনুপনগর",
-      "url": "charaunupnagarup.chapainawabganj.gov.bd"
+      "url": "charaunupnagarup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1377",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Debinagar",
       "name_bn": "দেবীনগর",
-      "url": "debinagarup.chapainawabganj.gov.bd"
+      "url": "debinagarup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1378",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Shahjahanpur",
       "name_bn": "শাহজাহানপুর",
-      "url": "shahjahanpurup.chapainawabganj.gov.bd"
+      "url": "shahjahanpurup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1379",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Islampur",
       "name_bn": "ইসলামপুর",
-      "url": "islampurup.chapainawabganj.gov.bd"
+      "url": "islampurup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1380",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Charbagdanga",
       "name_bn": "চরবাগডাঙ্গা",
-      "url": "charbagdangaup.chapainawabganj.gov.bd"
+      "url": "charbagdangaup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1381",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Narayanpur",
       "name_bn": "নারায়নপুর",
-      "url": "narayanpurup.chapainawabganj.gov.bd"
+      "url": "narayanpurup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1382",
     "model": "bangladesh.Union",
-    "upazila": "365",
     "fields": {
       "name": "Sundarpur",
       "name_bn": "সুন্দরপুর",
-      "url": "sundarpurup.chapainawabganj.gov.bd"
+      "url": "sundarpurup.chapainawabganj.gov.bd",
+      "upazila": "365"
     }
   },
   {
     "pk": "1383",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Radhanagar",
       "name_bn": "রাধানগর",
-      "url": "radhanagarup.chapainawabganj.gov.bd"
+      "url": "radhanagarup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1384",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Rahanpur",
       "name_bn": "রহনপুর",
-      "url": "rahanpurup.chapainawabganj.gov.bd"
+      "url": "rahanpurup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1385",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Boalia",
       "name_bn": "বোয়ালিয়া",
-      "url": "boaliaup.chapainawabganj.gov.bd"
+      "url": "boaliaup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1386",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Bangabari",
       "name_bn": "বাঙ্গাবাড়ী",
-      "url": "bangabariup.chapainawabganj.gov.bd"
+      "url": "bangabariup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1387",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Parbotipur",
       "name_bn": "পার্বতীপুর",
-      "url": "parbotipurup.chapainawabganj.gov.bd"
+      "url": "parbotipurup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1388",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Chowdala",
       "name_bn": "চৌডালা",
-      "url": "chowdalaup.chapainawabganj.gov.bd"
+      "url": "chowdalaup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1389",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Gomostapur",
       "name_bn": "গোমস্তাপুর",
-      "url": "gomostapurup.chapainawabganj.gov.bd"
+      "url": "gomostapurup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1390",
     "model": "bangladesh.Union",
-    "upazila": "363",
     "fields": {
       "name": "Alinagar",
       "name_bn": "আলীনগর",
-      "url": "alinagarup.chapainawabganj.gov.bd"
+      "url": "alinagarup.chapainawabganj.gov.bd",
+      "upazila": "363"
     }
   },
   {
     "pk": "1391",
     "model": "bangladesh.Union",
-    "upazila": "364",
     "fields": {
       "name": "Fhotepur",
       "name_bn": "ফতেপুর",
-      "url": "fhotepurup.chapainawabganj.gov.bd"
+      "url": "fhotepurup.chapainawabganj.gov.bd",
+      "upazila": "364"
     }
   },
   {
     "pk": "1392",
     "model": "bangladesh.Union",
-    "upazila": "364",
     "fields": {
       "name": "Kosba",
       "name_bn": "কসবা",
-      "url": "kosbaup.chapainawabganj.gov.bd"
+      "url": "kosbaup.chapainawabganj.gov.bd",
+      "upazila": "364"
     }
   },
   {
     "pk": "1393",
     "model": "bangladesh.Union",
-    "upazila": "364",
     "fields": {
       "name": "Nezampur",
       "name_bn": "নেজামপুর",
-      "url": "nezampurup.chapainawabganj.gov.bd"
+      "url": "nezampurup.chapainawabganj.gov.bd",
+      "upazila": "364"
     }
   },
   {
     "pk": "1394",
     "model": "bangladesh.Union",
-    "upazila": "364",
     "fields": {
       "name": "Nachol",
       "name_bn": "নাচোল",
-      "url": "nacholup.chapainawabganj.gov.bd"
+      "url": "nacholup.chapainawabganj.gov.bd",
+      "upazila": "364"
     }
   },
   {
     "pk": "1395",
     "model": "bangladesh.Union",
-    "upazila": "362",
     "fields": {
       "name": "Bholahat",
       "name_bn": "ভোলাহাট",
-      "url": "bholahatup.chapainawabganj.gov.bd"
+      "url": "bholahatup.chapainawabganj.gov.bd",
+      "upazila": "362"
     }
   },
   {
     "pk": "1396",
     "model": "bangladesh.Union",
-    "upazila": "362",
     "fields": {
       "name": "Jambaria",
       "name_bn": "জামবাড়িয়া",
-      "url": "jambariaup.chapainawabganj.gov.bd"
+      "url": "jambariaup.chapainawabganj.gov.bd",
+      "upazila": "362"
     }
   },
   {
     "pk": "1397",
     "model": "bangladesh.Union",
-    "upazila": "362",
     "fields": {
       "name": "Gohalbari",
       "name_bn": "গোহালবাড়ী",
-      "url": "gohalbariup.chapainawabganj.gov.bd"
+      "url": "gohalbariup.chapainawabganj.gov.bd",
+      "upazila": "362"
     }
   },
   {
     "pk": "1398",
     "model": "bangladesh.Union",
-    "upazila": "362",
     "fields": {
       "name": "Daldoli",
       "name_bn": "দলদলী",
-      "url": "daldoliup.chapainawabganj.gov.bd"
+      "url": "daldoliup.chapainawabganj.gov.bd",
+      "upazila": "362"
     }
   },
   {
     "pk": "1399",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Binodpur",
       "name_bn": "বিনোদপুর",
-      "url": "binodpurup.chapainawabganj.gov.bd"
+      "url": "binodpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1400",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Chakkirti",
       "name_bn": "চককির্তী",
-      "url": "chakkirtiup.chapainawabganj.gov.bd"
+      "url": "chakkirtiup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1401",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Daipukuria",
       "name_bn": "দাইপুকুরিয়া",
-      "url": "daipukuriaup.chapainawabganj.gov.bd"
+      "url": "daipukuriaup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1402",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Dhainagar",
       "name_bn": "ধাইনগর",
-      "url": "dhainagarup.chapainawabganj.gov.bd"
+      "url": "dhainagarup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1403",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Durlovpur",
       "name_bn": "দুর্লভপুর",
-      "url": "durlovpurup.chapainawabganj.gov.bd"
+      "url": "durlovpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1404",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Ghorapakhia",
       "name_bn": "ঘোড়াপাখিয়া",
-      "url": "ghorapakhiaup.chapainawabganj.gov.bd"
+      "url": "ghorapakhiaup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1405",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Mobarakpur",
       "name_bn": "মোবারকপুর",
-      "url": "mobarakpurup.chapainawabganj.gov.bd"
+      "url": "mobarakpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1406",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Monakasha",
       "name_bn": "মনাকষা",
-      "url": "monakashaup.chapainawabganj.gov.bd"
+      "url": "monakashaup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1407",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Noyalavanga",
       "name_bn": "নয়ালাভাঙ্গা",
-      "url": "noyalavangaup.chapainawabganj.gov.bd"
+      "url": "noyalavangaup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1408",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Panka",
       "name_bn": "পাঁকা",
-      "url": "pankaup.chapainawabganj.gov.bd"
+      "url": "pankaup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1409",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Chatrajitpur",
       "name_bn": "ছত্রাজিতপুর",
-      "url": "chhatrajitpurup.chapainawabganj.gov.bd"
+      "url": "chhatrajitpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1410",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Shahabajpur",
       "name_bn": "শাহাবাজপুর",
-      "url": "shahabajpurup.chapainawabganj.gov.bd"
+      "url": "shahabajpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1411",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Shyampur",
       "name_bn": "শ্যামপুর",
-      "url": "shyampurup.chapainawabganj.gov.bd"
+      "url": "shyampurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1412",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Kansat",
       "name_bn": "কানসাট",
-      "url": "kansatup.bdgovportal.com"
+      "url": "kansatup.bdgovportal.com",
+      "upazila": "366"
     }
   },
   {
     "pk": "1413",
     "model": "bangladesh.Union",
-    "upazila": "366",
     "fields": {
       "name": "Ujirpur",
       "name_bn": "উজিরপুর",
-      "url": "ujirpurup.chapainawabganj.gov.bd"
+      "url": "ujirpurup.chapainawabganj.gov.bd",
+      "upazila": "366"
     }
   },
   {
     "pk": "1414",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "1nomohadevpur",
       "name_bn": "মহাদেবপুর",
-      "url": "1nomohadevpurup.naogaon.gov.bd"
+      "url": "1nomohadevpurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1415",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Hatur",
       "name_bn": "হাতুড়",
-      "url": "2nohaturup.naogaon.gov.bd"
+      "url": "2nohaturup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1416",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Khajur",
       "name_bn": "খাজুর",
-      "url": "3nokhajurup.naogaon.gov.bd"
+      "url": "3nokhajurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1417",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Chandas",
       "name_bn": "চাঁন্দাশ",
-      "url": "4nochandasup.naogaon.gov.bd"
+      "url": "4nochandasup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1418",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Enayetpur",
       "name_bn": "এনায়েতপুর",
-      "url": "6noenayetpurup.naogaon.gov.bd"
+      "url": "6noenayetpurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1419",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Sofapur",
       "name_bn": "সফাপুর",
-      "url": "7nosofapurup.naogaon.gov.bd"
+      "url": "7nosofapurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1420",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Uttargram",
       "name_bn": "উত্তরগ্রাম",
-      "url": "8nouttargramup.naogaon.gov.bd"
+      "url": "8nouttargramup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1421",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Cheragpur",
       "name_bn": "চেরাগপুর",
-      "url": "9nocheragpurup.naogaon.gov.bd"
+      "url": "9nocheragpurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1422",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Vimpur",
       "name_bn": "ভীমপুর",
-      "url": "10novimpurup.naogaon.gov.bd"
+      "url": "10novimpurup.naogaon.gov.bd",
+      "upazila": "346"
     }
   },
   {
     "pk": "1423",
     "model": "bangladesh.Union",
-    "upazila": "346",
     "fields": {
       "name": "Roygon",
       "name_bn": "রাইগাঁ",
-      "url": "roygonup.naogaon.gov.bd"
+      "url": "roygonup.naogaon.gov.bd",
+      "upazila": "346"
+    }
+  },
+  {
+    "pk": "1424",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Badalgachi",
+      "name_bn": "বদলগাছী",
+      "url": "1nobadalgachiup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1425",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Mothurapur",
+      "name_bn": "মথুরাপুর",
+      "url": "2nomothurapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1426",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Paharpur",
+      "name_bn": "পাহারপুর",
+      "url": "3nopaharpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1427",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Mithapur",
+      "name_bn": "মিঠাপুর",
+      "url": "4nomithapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1428",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Kola",
+      "name_bn": "কোলা",
+      "url": "5nokolaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1429",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Bilashbari",
+      "name_bn": "বিলাশবাড়ী",
+      "url": "6nobilashbariup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1430",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Adhaipur",
+      "name_bn": "আধাইপুর",
+      "url": "7noadhaipurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1431",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "355",
+      "name": "Balubhara",
+      "name_bn": "বালুভরা",
+      "url": "8nobalubharaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1432",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Patnitala",
+      "name_bn": "পত্নীতলা",
+      "url": "1nopatnitalaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1433",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Nirmail",
+      "name_bn": "নিমইল",
+      "url": "2nonirmailup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1434",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Dibar",
+      "name_bn": "দিবর",
+      "url": "3nodibarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1435",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Akbarpur",
+      "name_bn": "আকবরপুর",
+      "url": "4noakbarpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1436",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Matindar",
+      "name_bn": "মাটিন্দর",
+      "url": "5nomatindarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1437",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Krishnapur",
+      "name_bn": "কৃষ্ণপুর",
+      "url": "6nokrishnapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1438",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Patichrara",
+      "name_bn": "পাটিচড়া",
+      "url": "7nopatichraraup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1439",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Nazipur",
+      "name_bn": "নজিপুর",
+      "url": "8nonazipurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1440",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Ghasnagar",
+      "name_bn": "ঘষনগর",
+      "url": "9noghasnagarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1441",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Amair",
+      "name_bn": "আমাইড়",
+      "url": "10noamairup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1442",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "351",
+      "name": "Shihara",
+      "name_bn": "শিহারা",
+      "url": "11noahiharaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1443",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Dhamoirhat",
+      "name_bn": "ধামইরহাট",
+      "url": "1nodhamoirhatup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1444",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Alampur",
+      "name_bn": "আলমপুর",
+      "url": "3noalampurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1445",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Umar",
+      "name_bn": "উমার",
+      "url": "4noumarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1446",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Aranagar",
+      "name_bn": "আড়ানগর",
+      "url": "5noaranagarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1447",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Jahanpur",
+      "name_bn": "জাহানপুর",
+      "url": "6nojahanpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1448",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Isabpur",
+      "name_bn": "ইসবপুর",
+      "url": "7noisabpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1449",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Khelna",
+      "name_bn": "খেলনা",
+      "url": "8nokhelnaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1450",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "352",
+      "name": "Agradigun",
+      "name_bn": "আগ্রাদ্বিগুন",
+      "url": "2noagradigunup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1451",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Hajinagar",
+      "name_bn": "হাজীনগর",
+      "url": "1nohajinagarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1452",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Chandannagar",
+      "name_bn": "চন্দননগর",
+      "url": "2nochandannagarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1453",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Bhabicha",
+      "name_bn": "ভাবিচা",
+      "url": "3nobhabichaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1454",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Niamatpur",
+      "name_bn": "নিয়ামতপুর",
+      "url": "4noniamatpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1455",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Rasulpur",
+      "name_bn": "রসুলপুর",
+      "url": "5norasulpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1456",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Paroil",
+      "name_bn": "পাড়ইল",
+      "url": "6noparoilup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1457",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Sremantapur",
+      "name_bn": "শ্রীমন্তপুর",
+      "url": "7nosremantapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1458",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "348",
+      "name": "Bahadurpur",
+      "name_bn": "বাহাদুরপুর",
+      "url": "8nobahadurpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1459",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Varsho",
+      "name_bn": "ভারশো",
+      "url": "1novarshoup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1460",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Valain",
+      "name_bn": "ভালাইন",
+      "url": "2novalainup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1461",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Paranpur",
+      "name_bn": "পরানপুর",
+      "url": "3noparanpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1462",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Manda",
+      "name_bn": "মান্দা",
+      "url": "4nomandaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1463",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Goneshpur",
+      "name_bn": "গনেশপুর",
+      "url": "5nogoneshpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1464",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Moinom",
+      "name_bn": "মৈনম",
+      "url": "6nomoinomup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1465",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Proshadpur",
+      "name_bn": "প্রসাদপুর",
+      "url": "7noproshadpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1466",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Kosomba",
+      "name_bn": "কুসুম্বা",
+      "url": "8nokosombaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1467",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Tetulia",
+      "name_bn": "তেঁতুলিয়া",
+      "url": "9notetuliaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1468",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Nurullabad",
+      "name_bn": "নূরুল্যাবাদ",
+      "url": "10nonurullabadup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1469",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Kalikapur",
+      "name_bn": "কালিকাপুর",
+      "url": "11nokalikapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1470",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Kashopara",
+      "name_bn": "কাঁশোকাপুর",
+      "url": "12nokashoparaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1471",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Koshob",
+      "name_bn": "কশব",
+      "url": "13nokoshobup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1472",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "347",
+      "name": "Bisnopur",
+      "name_bn": "বিষ্ণপুর",
+      "url": "14nobisnopurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1473",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Shahagola",
+      "name_bn": "শাহাগোলা",
+      "url": "1noshahagolaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1474",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Bhonpara",
+      "name_bn": "ভোঁপড়া",
+      "url": "2nobhonparaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1475",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Ahsanganj",
+      "name_bn": "আহসানগঞ্জ",
+      "url": "3noahsanganjup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1476",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Panchupur",
+      "name_bn": "পাঁচুপুর",
+      "url": "4nopanchupurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1477",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Bisha",
+      "name_bn": "বিশা",
+      "url": "5nobishaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1478",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Maniary",
+      "name_bn": "মনিয়ারী",
+      "url": "6nomaniaryup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1479",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Kalikapur",
+      "name_bn": "কালিকাপুর",
+      "url": "7nokalikapurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1480",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "349",
+      "name": "Hatkalupara",
+      "name_bn": "হাটকালুপাড়া",
+      "url": "8nohatkaluparaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1481",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Khatteshawr",
+      "name_bn": "খট্টেশ্বর রাণীনগর",
+      "url": "1nokhatteshawrup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1482",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Kashimpur",
+      "name_bn": "কাশিমপুর",
+      "url": "2nokashimpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1483",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Gona",
+      "name_bn": "গোনা",
+      "url": "3nogonaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1484",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Paroil",
+      "name_bn": "পারইল",
+      "url": "4noparoilup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1485",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Borgoca",
+      "name_bn": "বরগাছা",
+      "url": "5noborgocaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1486",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Kaligram",
+      "name_bn": "কালিগ্রাম",
+      "url": "6nokaligramup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1487",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Ekdala",
+      "name_bn": "একডালা",
+      "url": "7noekdalaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1488",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "350",
+      "name": "Mirat",
+      "name_bn": "মিরাট",
+      "url": "8nomiratup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1489",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Barshail",
+      "name_bn": "বর্ষাইল",
+      "url": "1nobarshailup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1490",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Kritipur",
+      "name_bn": "কির্ত্তিপুর",
+      "url": "2nokritipurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1491",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Baktiarpur",
+      "name_bn": "বক্তারপুর",
+      "url": "3nobaktiarpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1492",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Tilakpur",
+      "name_bn": "তিলোকপুর",
+      "url": "4notilakpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1493",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Hapaniya",
+      "name_bn": "হাপানিয়া",
+      "url": "5nohapaniyaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1494",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Dubalhati",
+      "name_bn": "দুবলহাটী",
+      "url": "6nodubalhatiup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1495",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Boalia",
+      "name_bn": "বোয়ালিয়া",
+      "url": "7noboaliaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1496",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Hashaigari",
+      "name_bn": "হাঁসাইগাড়ী",
+      "url": "8nohashaigariup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1497",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Chandipur",
+      "name_bn": "চন্ডিপুর",
+      "url": "9nochandipurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1498",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Bolihar",
+      "name_bn": "বলিহার",
+      "url": "10noboliharup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1499",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Shekerpur",
+      "name_bn": "শিকারপুর",
+      "url": "11noshekerpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1500",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "345",
+      "name": "Shailgachhi",
+      "name_bn": "শৈলগাছী",
+      "url": "12noshailgachhiup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1501",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Nitpur",
+      "name_bn": "নিতপুর",
+      "url": "nitpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1502",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Tetulia",
+      "name_bn": "তেঁতুলিয়া",
+      "url": "2notetuliaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1503",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Chhaor",
+      "name_bn": "ছাওড়",
+      "url": "3nochhaorup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1504",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Ganguria",
+      "name_bn": "গাঙ্গুরিয়া",
+      "url": "4noganguriaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1505",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Ghatnagar",
+      "name_bn": "ঘাটনগর",
+      "url": "5noghatnagarup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1506",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "354",
+      "name": "Moshidpur",
+      "name_bn": "মশিদপুর",
+      "url": "6nomoshidpurup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1507",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Sapahar",
+      "name_bn": "সাপাহার",
+      "url": "1nosapaharup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1508",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Tilna",
+      "name_bn": "তিলনা",
+      "url": "3notilnaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1509",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Aihai",
+      "name_bn": "আইহাই",
+      "url": "4noaihaiup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1510",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Shironti",
+      "name_bn": "শিরন্টী",
+      "url": "6noshirontiup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1511",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Goala",
+      "name_bn": "গোয়ালা",
+      "url": "goalaup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1512",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "353",
+      "name": "Patari",
+      "name_bn": "পাতাড়ী",
+      "url": "patariup.naogaon.gov.bd"
+    }
+  },
+  {
+    "pk": "1513",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Nehalpur",
+      "name_bn": "নেহালপুর",
+      "url": "nehalpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1514",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Hariharnagar",
+      "name_bn": "হরিহরনগর",
+      "url": "hariharnagarup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1515",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Haridaskati",
+      "name_bn": "হরিদাসকাটি",
+      "url": "haridaskatiup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1516",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Shyamkur",
+      "name_bn": "শ্যামকুড়",
+      "url": "shyamkurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1517",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Rohita",
+      "name_bn": "রোহিতা",
+      "url": "rohitaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1518",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Maswimnagar",
+      "name_bn": "মশ্মিমনগর",
+      "url": "maswimnagarup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1519",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Manoharpur",
+      "name_bn": "মনোহরপুর",
+      "url": "manoharpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1520",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Manirampur",
+      "name_bn": "মনিরামপুর",
+      "url": "manirampurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1521",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Bhojgati",
+      "name_bn": "ভোজগাতি",
+      "url": "bhojgatiup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1522",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Durbadanga",
+      "name_bn": "দুর্বাডাংগা",
+      "url": "durbadangaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1523",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Dhakuria",
+      "name_bn": "ঢাকুরিয়া",
+      "url": "dhakuriaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1524",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Jhanpa",
+      "name_bn": "ঝাঁপা",
+      "url": "jhanpaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1525",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Chaluahati",
+      "name_bn": "চালুয়াহাটি",
+      "url": "chaluahatiup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1526",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Khedapara",
+      "name_bn": "খেদাপাড়া",
+      "url": "khedaparaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1527",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Khanpur",
+      "name_bn": "খানপুর",
+      "url": "khanpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1528",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Kultia",
+      "name_bn": "কুলটিয়া",
+      "url": "kultiaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1529",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "287",
+      "name": "Kashimnagar",
+      "name_bn": "কাশিমনগর",
+      "url": "kashimnagarup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1530",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Baghutia",
+      "name_bn": "বাঘুটিয়া",
+      "url": "baghutia.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1531",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Chalishia",
+      "name_bn": "চলিশিয়া",
+      "url": "chalishiaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1532",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Sundoli",
+      "name_bn": "সুন্দলী",
+      "url": "sundoliup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1533",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Siddhipasha",
+      "name_bn": "সিদ্দিপাশা",
+      "url": "siddhipashaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1534",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Sreedharpur",
+      "name_bn": "শ্রীধরপুর",
+      "url": "sreedharpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1535",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Subharara",
+      "name_bn": "শুভরাড়া",
+      "url": "subhararaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1536",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Prambag",
+      "name_bn": "প্রেমবাগ",
+      "url": "prambagup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1537",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "282",
+      "name": "Payra",
+      "name_bn": "পায়রা",
+      "url": "payraup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1538",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Jaharpur",
+      "name_bn": "জহুরপুর",
+      "url": "jaharpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1539",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Jamdia",
+      "name_bn": "জামদিয়া",
+      "url": "jamdiaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1540",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Darajhat",
+      "name_bn": "দরাজহাট",
+      "url": "darajhatup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1541",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Dhalgram",
+      "name_bn": "ধলগ্রাম",
+      "url": "dhalgramup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1542",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Narikelbaria",
+      "name_bn": "নারিকেলবাড়ীয়া",
+      "url": "narikelbariaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1543",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Bandabilla",
+      "name_bn": "বন্দবিলা",
+      "url": "bandabillaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1544",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Basuari",
+      "name_bn": "বাসুয়াড়ী",
+      "url": "basuariup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1545",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Roypur",
+      "name_bn": "রায়পুর",
+      "url": "roypurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1546",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "284",
+      "name": "Dohakula",
+      "name_bn": "দোহাকুলা",
+      "url": "dohakulaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1547",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Chougachha",
+      "name_bn": "চৌগাছা",
+      "url": "chougachhaup5.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1548",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Jagadishpur",
+      "name_bn": "জগদীশপুর",
+      "url": "jagadishpurup6.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1549",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Dhuliani",
+      "name_bn": "ধুলিয়ানী",
+      "url": "dhulianiup4.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1550",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Narayanpur",
+      "name_bn": "নারায়নপুর",
+      "url": "narayanpurup10.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1551",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Patibila",
+      "name_bn": "পাতিবিলা",
+      "url": "patibilaup7.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1552",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Pashapole",
+      "name_bn": "পাশাপোল",
+      "url": "pashapoleup2.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1553",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Fulsara",
+      "name_bn": "ফুলসারা",
+      "url": "fulsaraup1.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1554",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Singhajhuli",
+      "name_bn": "সিংহঝুলি",
+      "url": "singhajhuliup3.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1555",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Sukpukhuria",
+      "name_bn": "সুখপুকুরিয়া",
+      "url": "sukpukhuriaup11.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1556",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Swarupdaha",
+      "name_bn": "সরুপদাহ",
+      "url": "swarupdahaup9.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1557",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "286",
+      "name": "Hakimpur",
+      "name_bn": "হাকিমপুর",
+      "url": "hakimpurup8.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1558",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Gangananda",
+      "name_bn": "গংগানন্দপুর",
+      "url": "ganganandapurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1559",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Gadkhali",
+      "name_bn": "গদখালী",
+      "url": "gadkhaliup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1560",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Jhikargachha",
+      "name_bn": "ঝিকরগাছা",
+      "url": "jhikargachhaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1561",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Nabharan",
+      "name_bn": "নাভারন",
+      "url": "nabharanup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1562",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Nibaskhola",
+      "name_bn": "নির্বাসখোলা",
+      "url": "nibaskholaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1563",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Panisara",
+      "name_bn": "পানিসারা",
+      "url": "panisaraup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1564",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Bankra",
+      "name_bn": "বাঁকড়া",
+      "url": "bankraup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1565",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Shankarpur",
+      "name_bn": "শংকরপুর",
+      "url": "shankarpurup10.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1566",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Shimulia",
+      "name_bn": "শিমুলিয়া",
+      "url": "shimuliaup3.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1567",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Hajirbagh",
+      "name_bn": "হাজিরবাগ",
+      "url": "hajirbaghup9.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1568",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "288",
+      "name": "Magura",
+      "name_bn": "মাগুরা",
+      "url": "maguraup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1569",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Sufalakati",
+      "name_bn": "সুফলাকাটি",
+      "url": "sufalakatiup8.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1570",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Sagardari",
+      "name_bn": "সাগরদাড়ী",
+      "url": "sagardariup2.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1571",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Majidpur",
+      "name_bn": "মজিদপুর",
+      "url": "majidpurup3.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1572",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Mongolkot",
+      "name_bn": "মঙ্গলকোর্ট",
+      "url": "mongolkotup5.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1573",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Bidyanandakati",
+      "name_bn": "বিদ্যানন্দকাটি",
+      "url": "bidyanandakatiup4.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1574",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Panjia",
+      "name_bn": "পাজিয়া",
+      "url": "panjiaup7.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1575",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Trimohini",
+      "name_bn": "ত্রিমোহিনী",
+      "url": "trimohiniup1.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1576",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Gaurighona",
+      "name_bn": "গৌরিঘোনা",
+      "url": "gaurighonaup9.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1577",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "283",
+      "name": "Keshabpur",
+      "name_bn": "কেশবপুর",
+      "url": "keshabpurup6.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1578",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Lebutala",
+      "name_bn": "লেবুতলা",
+      "url": "lebutalaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1579",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Ichhali",
+      "name_bn": "ইছালী",
+      "url": "ichhaliup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1580",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Arabpur",
+      "name_bn": "আরবপুর",
+      "url": "arabpurup9.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1581",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Upasahar",
+      "name_bn": "উপশহর",
+      "url": "upasaharup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1582",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Kachua",
+      "name_bn": "কচুয়া",
+      "url": "kachuaup13.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1583",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Kashimpur",
+      "name_bn": "কাশিমপুর",
+      "url": "kashimpurup6.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1584",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Chanchra",
+      "name_bn": "চাঁচড়া",
+      "url": "chanchraup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1585",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Churamankati",
+      "name_bn": "চূড়ামনকাটি",
+      "url": "churamankatiup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1586",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Narendrapur",
+      "name_bn": "নরেন্দ্রপুর",
+      "url": "narendrapurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1587",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Noapara",
+      "name_bn": "নওয়াপাড়া",
+      "url": "noaparaup4.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1588",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Fathehpur",
+      "name_bn": "ফতেপুর",
+      "url": "fathehpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1589",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Basundia",
+      "name_bn": "বসুন্দিয়া",
+      "url": "basundiaup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1590",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Ramnagar",
+      "name_bn": "রামনগর",
+      "url": "ramnagarup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1591",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Haibatpur",
+      "name_bn": "হৈবতপুর",
+      "url": "haibatpurup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1592",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "285",
+      "name": "Dearamodel",
+      "name_bn": "দেয়ারা মডেল",
+      "url": "dearamodelup.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1593",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Ulshi",
+      "name_bn": "উলশী",
+      "url": "ulshiup9.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1594",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Sharsha",
+      "name_bn": "শার্শা",
+      "url": "sharshaup10.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1595",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Lakshmanpur",
+      "name_bn": "লক্ষণপুর",
+      "url": "lakshmanpurup2.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1596",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Benapole",
+      "name_bn": "বেনাপোল",
+      "url": "benapoleup4.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1597",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Bahadurpur",
+      "name_bn": "বাহাদুরপুর",
+      "url": "bahadurpurup3.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1598",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Bagachra",
+      "name_bn": "বাগআচড়া",
+      "url": "bagachraup8.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1599",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Putkhali",
+      "name_bn": "পুটখালী",
+      "url": "putkhaliup5.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1600",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Nizampur",
+      "name_bn": "নিজামপুর",
+      "url": "nizampurup11.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1601",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Dihi",
+      "name_bn": "ডিহি",
+      "url": "dihiup1.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1602",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Goga",
+      "name_bn": "গোগা",
+      "url": "gogaup6.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1603",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "289",
+      "name": "Kayba",
+      "name_bn": "কায়বা",
+      "url": "kaybaup7.jessore.gov.bd"
+    }
+  },
+  {
+    "pk": "1604",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Anulia",
+      "name_bn": "আনুলিয়া",
+      "url": "anuliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1605",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Assasuni",
+      "name_bn": "আশাশুনি",
+      "url": "assasuniup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1606",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Kadakati",
+      "name_bn": "কাদাকাটি",
+      "url": "kadakatiup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1607",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Kulla",
+      "name_bn": "কুল্যা",
+      "url": "kullaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1608",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Khajra",
+      "name_bn": "খাজরা",
+      "url": "khajraup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1609",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Durgapur",
+      "name_bn": "দরগাহপুর",
+      "url": "durgapurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1610",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Pratapnagar",
+      "name_bn": "প্রতাপনগর",
+      "url": "pratapnagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1611",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Budhhata",
+      "name_bn": "বুধহাটা",
+      "url": "budhhataup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1612",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Baradal",
+      "name_bn": "বড়দল",
+      "url": "baradalup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1613",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Sreeula",
+      "name_bn": "শ্রীউলা",
+      "url": "sreeulaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1614",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "322",
+      "name": "Sobhnali",
+      "name_bn": "শোভনালী",
+      "url": "sobhnaliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1615",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "323",
+      "name": "Kulia",
+      "name_bn": "কুলিয়া",
+      "url": "kuliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1616",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "323",
+      "name": "Debhata",
+      "name_bn": "দেবহাটা",
+      "url": "debhataup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1617",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "323",
+      "name": "Noapara",
+      "name_bn": "নওয়াপাড়া",
+      "url": "noaparaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1618",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "323",
+      "name": "Parulia",
+      "name_bn": "পারুলিয়া",
+      "url": "paruliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1619",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "323",
+      "name": "Sakhipur",
+      "name_bn": "সখিপুর",
+      "url": "sakhipurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1620",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Kushadanga",
+      "name_bn": "কুশোডাংগা",
+      "url": "kushadangaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1621",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Keralkata",
+      "name_bn": "কেরালকাতা",
+      "url": "keralkataup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1622",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Keragachhi",
+      "name_bn": "কেঁড়াগাছি",
+      "url": "keragachhiup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1623",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Kaila",
+      "name_bn": "কয়লা",
+      "url": "kailaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1624",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Jallabad",
+      "name_bn": "জালালাবাদ",
+      "url": "jallabadup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1625",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Jogikhali",
+      "name_bn": "যুগিখালী",
+      "url": "jogikhaliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1626",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Langaljhara",
+      "name_bn": "লাঙ্গলঝাড়া",
+      "url": "langaljharaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1627",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Sonabaria",
+      "name_bn": "সোনাবাড়িয়া",
+      "url": "sonabariaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1628",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Helatala",
+      "name_bn": "হেলাতলা",
+      "url": "helatalaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1629",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Chandanpur",
+      "name_bn": "চন্দনপুর",
+      "url": "chandanpurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1630",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Deara",
+      "name_bn": "দেয়ারা",
+      "url": "dearaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1631",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "325",
+      "name": "Joynagar",
+      "name_bn": "জয়নগর",
+      "url": "joynagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1632",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Shibpur",
+      "name_bn": "শিবপুর",
+      "url": "shibpurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1633",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Labsa",
+      "name_bn": "লাবসা",
+      "url": "labsaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1634",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Bhomra",
+      "name_bn": "ভোমরা",
+      "url": "bhomraup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1635",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Brahmarajpur",
+      "name_bn": "ব্রক্ষ্মরাজপুর",
+      "url": "brahmarajpurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1636",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Balli",
+      "name_bn": "বল্লী",
+      "url": "balliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1637",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Banshdaha",
+      "name_bn": "বাঁশদহ",
+      "url": "banshdahaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1638",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Baikari",
+      "name_bn": "বৈকারী",
+      "url": "baikariup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1639",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Fingri",
+      "name_bn": "ফিংড়ি",
+      "url": "fingriup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1640",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Dhulihar",
+      "name_bn": "ধুলিহর",
+      "url": "dhuliharup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1641",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Jhaudanga",
+      "name_bn": "ঝাউডাঙ্গা",
+      "url": "jhaudangaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1642",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Ghona",
+      "name_bn": "ঘোনা",
+      "url": "ghonaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1643",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Kuskhali",
+      "name_bn": "কুশখালী",
+      "url": "kuskhaliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1644",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Alipur",
+      "name_bn": "আলিপুর",
+      "url": "alipurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1645",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "321",
+      "name": "Agardari",
+      "name_bn": "আগরদাড়ী",
+      "url": "agardariup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1646",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Atulia",
+      "name_bn": "আটুলিয়া",
+      "url": "atuliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1647",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Ishwaripur",
+      "name_bn": "ঈশ্বরীপুর",
+      "url": "ishwaripurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1648",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Kaikhali",
+      "name_bn": "কৈখালী",
+      "url": "kaikhaliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1649",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Kashimari",
+      "name_bn": "কাশিমাড়ী",
+      "url": "kashimariup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1650",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Nurnagar",
+      "name_bn": "নুরনগর",
+      "url": "nurnagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1651",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Padmapukur",
+      "name_bn": "পদ্মপুকুর",
+      "url": "padmapukurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1652",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Burigoalini",
+      "name_bn": "বুড়িগোয়ালিনী",
+      "url": "burigoaliniup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1653",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Bhurulia",
+      "name_bn": "ভুরুলিয়া",
+      "url": "bhuruliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1654",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Munshiganj",
+      "name_bn": "মুন্সীগজ্ঞ",
+      "url": "munshiganjup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1655",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Ramjannagar",
+      "name_bn": "রমজাননগর",
+      "url": "ramjannagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1656",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Shyamnagar",
+      "name_bn": "শ্যামনগর",
+      "url": "shyamnagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1657",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "327",
+      "name": "Gabura",
+      "name_bn": "গাবুরা",
+      "url": "gaburaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1658",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Sarulia",
+      "name_bn": "সরুলিয়া",
+      "url": "saruliaup3.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1659",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Magura",
+      "name_bn": "মাগুরা",
+      "url": "maguraup8.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1660",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Nagarghata",
+      "name_bn": "নগরঘাটা",
+      "url": "nagarghataup1.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1661",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Dhandia",
+      "name_bn": "ধানদিয়া",
+      "url": "dhandiaup1.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1662",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Tentulia",
+      "name_bn": "তেতুলিয়া",
+      "url": "tentuliaup5.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1663",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Tala",
+      "name_bn": "তালা",
+      "url": "talaup6.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1664",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Jalalpur",
+      "name_bn": "জালালপুর",
+      "url": "jalalpurup11.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1665",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Khesra",
+      "name_bn": "খেশরা",
+      "url": "khesraup10.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1666",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Khalishkhali",
+      "name_bn": "খলিশখালী",
+      "url": "khalishkhaliup9.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1667",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Khalilnagar",
+      "name_bn": "খলিলনগর",
+      "url": "khalilnagarup12.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1668",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Kumira",
+      "name_bn": "কুমিরা",
+      "url": "kumiraup4.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1669",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "324",
+      "name": "Islamkati",
+      "name_bn": "ইসলামকাটি",
+      "url": "islamkatiup7.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1670",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Kushlia",
+      "name_bn": "কুশুলিয়া",
+      "url": "kushliaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1671",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Champaphul",
+      "name_bn": "চাম্পাফুল",
+      "url": "champaphulup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1672",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Tarali",
+      "name_bn": "তারালী",
+      "url": "taraliup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1673",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Dakshin Sreepur",
+      "name_bn": "দক্ষিণ শ্রীপুর",
+      "url": "dakshinsreepurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1674",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Dhalbaria",
+      "name_bn": "ধলবাড়িয়া",
+      "url": "dhalbariaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1675",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Nalta",
+      "name_bn": "নলতা",
+      "url": "naltaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1676",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Bishnupur",
+      "name_bn": "বিষ্ণুপুর",
+      "url": "bishnupurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1677",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Bharasimla",
+      "name_bn": "ভাড়াশিমলা",
+      "url": "bharasimlaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1678",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Mathureshpur",
+      "name_bn": "মথুরেশপুর",
+      "url": "mathureshpurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1679",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Ratanpur",
+      "name_bn": "রতনপুর",
+      "url": "ratanpurup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1680",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Mautala",
+      "name_bn": "মৌতলা",
+      "url": "mautalaup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1681",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "292",
+      "name": "Krishnanagar",
+      "name_bn": "কৃষ্ণনগর",
+      "url": "krishnanagarup.satkhira.gov.bd"
+    }
+  },
+  {
+    "pk": "1682",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "316",
+      "name": "Dariapur",
+      "name_bn": "দারিয়াপুর",
+      "url": "dariapurup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1683",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "316",
+      "name": "Monakhali",
+      "name_bn": "মোনাখালী",
+      "url": "monakhali.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1684",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "316",
+      "name": "Bagowan",
+      "name_bn": "বাগোয়ান",
+      "url": "bagowanup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1685",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "316",
+      "name": "Mohajanpur",
+      "name_bn": "মহাজনপুর",
+      "url": "mohajanpurup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1686",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "317",
+      "name": "Amjhupi",
+      "name_bn": "আমঝুপি",
+      "url": "amjhupi.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1687",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "317",
+      "name": "Pirojpur",
+      "name_bn": "পিরোজপুর",
+      "url": "pirojpurup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1688",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "317",
+      "name": "Kutubpur",
+      "name_bn": "কতুবপুর",
+      "url": "kutubpurup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1689",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "317",
+      "name": "Amdah",
+      "name_bn": "আমদহ",
+      "url": "amdahup.meherpur.gov.bd"
+    }
+  },
+  {
+    "pk": "1690",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "317",
+      "name": "Buripota",
+      "name_bn": "বুড়িপোতা",
+      "url": "buripotaup.meherpur.gov.bd"
     }
   }
 ]
