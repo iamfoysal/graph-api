@@ -9039,5 +9039,75 @@
       "name_bn": "মাইসছড়ি",
       "url": "maischariup.khagrachhari.gov.bd"
     }
+  },
+  {
+    "pk": "905",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "116",
+      "name": "Manikchari",
+      "name_bn": "মানিকছড়ি",
+      "url": "manikchariup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "906",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "116",
+      "name": "Batnatali",
+      "name_bn": "বাটনাতলী",
+      "url": "batnataliup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "907",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "116",
+      "name": "Jogyachola",
+      "name_bn": "যোগ্যছোলা",
+      "url": "jogyacholaup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "908",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "116",
+      "name": "Tintahari",
+      "name_bn": "তিনটহরী",
+      "url": "tintahariup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "909",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "119",
+      "name": "Ramgarh",
+      "name_bn": "রামগড়",
+      "url": "ramgarhup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "910",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "119",
+      "name": "Patachara",
+      "name_bn": "পাতাছড়া",
+      "url": "patacharaup.khagrachhari.gov.bd"
+    }
+  },
+  {
+    "pk": "911",
+    "model": "bangladesh.Union",
+    "fields": {
+      "upazila": "119",
+      "name": "Hafchari",
+      "name_bn": "হাফছড়ি",
+      "url": "hafchariup.khagrachhari.gov.bd"
+    }
   }
 ]

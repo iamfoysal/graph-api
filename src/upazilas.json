@@ -664,7 +664,7 @@
     },
     {
       "model": "bangladesh.Upazila",
-      "fields": { "district": 14, "name": "Manikchhari", "name_bn": "মানিকছড়ি" },
+      "fields": { "district": 14, "name": "Manikchari", "name_bn": "মানিকছড়ি" },
       "pk": 116
     },
     {
@@ -679,7 +679,7 @@
     },
     {
       "model": "bangladesh.Upazila",
-      "fields": { "district": 14, "name": "Ramgarh", "name_bn": "রামগড়" },
+      "fields": { "district": 14, "name": "Ramgarh", "name_bn": "রামগড়" },
       "pk": 119
     },
     {
